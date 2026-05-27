@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 import argparse
 import json
+import re
 import sys
 import uuid
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import quote, urljoin, urlparse, urlunparse
 from urllib.error import URLError, HTTPError
 from urllib.request import Request, urlopen
 
@@ -25,15 +26,59 @@ def load_json(path, fallback):
 
 
 def fetch_json(url, timeout=20):
+    url = iri_to_uri(normalize_config_url(url))
     request = Request(
         url,
         headers={
-            "User-Agent": "syncnext-personal-feed-updater/1.0",
+            "User-Agent": "Mozilla/5.0 syncnext-personal-feed-updater/1.0",
             "Accept": "application/json,text/plain,*/*",
         },
     )
     with urlopen(request, timeout=timeout) as response:
-        return json.loads(response.read().decode("utf-8-sig"))
+        return json.loads(clean_json_text(response.read().decode("utf-8-sig", errors="replace")))
+
+
+def clean_json_text(text):
+    text = re.sub(r"^\s*//.*$", "", text, flags=re.MULTILINE)
+    text = re.sub(r"/\*.*?\*/", "", text, flags=re.DOTALL)
+    return text.strip()
+
+
+def normalize_config_url(url):
+    if not isinstance(url, str):
+        return ""
+    url = url.strip()
+    prefixes = [
+        "https://wget.la/",
+        "http://wget.la/",
+        "https://gh.con.sh/",
+        "https://github.moeyy.xyz/",
+        "https://gh-proxy.com/",
+    ]
+    for prefix in prefixes:
+        if url.startswith(prefix + "https://"):
+            url = url[len(prefix) :]
+            break
+
+    parsed = urlparse(url)
+    if parsed.netloc.lower() == "github.com" and "/blob/" in parsed.path:
+        parts = parsed.path.strip("/").split("/")
+        if len(parts) >= 5:
+            owner, repo, _, branch = parts[:4]
+            path = "/".join(parts[4:])
+            return f"https://raw.githubusercontent.com/{owner}/{repo}/{branch}/{path}"
+    return url
+
+
+def iri_to_uri(url):
+    parsed = urlparse(url)
+    if not parsed.scheme or not parsed.netloc:
+        return url
+    netloc = parsed.netloc.encode("idna").decode("ascii")
+    path = quote(parsed.path, safe="/%:@")
+    query = quote(parsed.query, safe="=&?/:+,%")
+    fragment = quote(parsed.fragment, safe="")
+    return urlunparse((parsed.scheme, netloc, path, parsed.params, query, fragment))
 
 
 def absolute_url(base_url, value):
@@ -49,6 +94,9 @@ def is_direct_vod_api(api):
     if not isinstance(api, str):
         return False
     lowered = api.lower()
+    parsed = urlparse(api)
+    if parsed.hostname in {"127.0.0.1", "localhost", "::1"}:
+        return False
     if lowered.startswith(("csp_", "js:", "drpy", "assets://", "file://")):
         return False
     if any(marker in lowered for marker in ("provide/vod", "seaxml/vod", "inc/api.php")):
@@ -105,6 +153,57 @@ def tvbox_sites_to_syncnext(config, source_url):
         converted.append(item)
 
     return converted, skipped
+
+
+def tvbox_nested_urls(config, source_url):
+    if not isinstance(config, dict):
+        return []
+    nested = []
+    for entry in config.get("urls", []):
+        if isinstance(entry, str):
+            nested.append({"url": absolute_url(source_url, entry), "name": entry})
+        elif isinstance(entry, dict) and entry.get("url"):
+            nested.append(
+                {
+                    "url": absolute_url(source_url, entry.get("url")),
+                    "name": entry.get("name") or entry.get("url"),
+                }
+            )
+    return nested
+
+
+def collect_tvbox_sources(root_url, max_nested=40):
+    converted = []
+    skipped = []
+    fetched = []
+    failed = []
+    queue = [{"url": root_url, "depth": 0}]
+    seen = set()
+
+    while queue and len(fetched) < max_nested + 1:
+        current = queue.pop(0)
+        url = normalize_config_url(current["url"])
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        try:
+            config = fetch_json(url)
+            fetched.append(url)
+        except (HTTPError, URLError, TimeoutError, json.JSONDecodeError, OSError) as exc:
+            failed.append({"url": url, "error": str(exc)})
+            continue
+
+        items, skipped_items = tvbox_sites_to_syncnext(config, url)
+        converted.extend(items)
+        skipped.extend(skipped_items)
+
+        if current["depth"] < 1:
+            for nested in tvbox_nested_urls(config, url):
+                if len(queue) + len(fetched) >= max_nested + 1:
+                    break
+                queue.append({"url": nested["url"], "depth": current["depth"] + 1})
+
+    return converted, skipped, fetched, failed
 
 
 def normalize_item(item):
@@ -174,15 +273,15 @@ def main():
             url = feed.get("url")
             if not url:
                 continue
-            try:
-                config = fetch_json(url)
-                converted, skipped = tvbox_sites_to_syncnext(config, url)
-                groups.append(converted)
-                fetched.append(url)
-                tvbox_imported.append({"url": url, "count": len(converted)})
-                tvbox_skipped.extend(skipped)
-            except (HTTPError, URLError, TimeoutError, json.JSONDecodeError, OSError) as exc:
-                failed.append({"url": url, "error": str(exc)})
+            converted, skipped, tvbox_fetched, tvbox_failed = collect_tvbox_sources(
+                url,
+                max_nested=int(feed.get("max_nested", 40)),
+            )
+            groups.append(converted)
+            fetched.extend(tvbox_fetched)
+            failed.extend(tvbox_failed)
+            tvbox_imported.append({"url": url, "count": len(converted), "configs": len(tvbox_fetched)})
+            tvbox_skipped.extend(skipped)
 
     merged = merge_sources(groups)
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
