@@ -10,6 +10,7 @@
     "http://mzrjk.top/音乐",
     "https://7337.kstore.space/TGMTV/TGyinyue.txt",
     "http://box.nihaohezi.com/app/hzjy.json",
+    "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
     "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -30,7 +31,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 11,
-      "configs": 10
+      "configs": 11
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -191,6 +192,18 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🚴心跳┃4K",
+      "api": "http://rihou.cc:88/csp_XinTiao",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🏇七味┃4K",
+      "api": "http://rihou.cc:88/csp_QiWei",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "🎳Seed┃Hub",
       "api": "http://rihou.cc:88/csp_SeedHub",
       "reason": "not a direct CMS/VOD API"
@@ -199,6 +212,12 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🤑4K┃指南",
       "api": "http://rihou.cc:88/csp_Xxzn",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🐳雷鲸┃网盘",
+      "api": "http://rihou.cc:88/csp_Leijing",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -275,8 +294,8 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "😒短剧┃AI",
-      "api": "http://rihou.cc:88/csp_DuanJuCen",
+      "name": "🎰聚合┃短剧",
+      "api": "http://rihou.cc:88/csp_Jhdj",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -461,12 +480,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🐑短剧┃（羊）",
-      "api": "http://rihou.cc:88/js/聚合短剧.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🪐星辰┃（羊）",
       "api": "http://rihou.cc:88/js/星辰影院.js",
       "reason": "not a direct CMS/VOD API"
@@ -499,6 +512,12 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "😎酷酷┃JX",
       "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🎿采集┃合集",
+      "api": "http://rihou.cc:88/csp_Cjhj",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -553,12 +572,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🤺摔跤┃体育",
       "api": "http://rihou.cc:88/csp_ShuaiJiao",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🦚采集┃之王",
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -1075,6 +1088,312 @@
       "source": "http://box.nihaohezi.com/app/hzjy.json",
       "name": "📂本地视频",
       "api": "http://box.nihaohezi.com/app/csp_LocalFile",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐅小脑斧3.17更新，公众号【环宇轩网络】🐅",
+      "api": "http://cnmb.cc.cd/jk/csp_DouDouGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🗂小脑斧┃我的云盘┃配置",
+      "api": "http://cnmb.cc.cd/jk/csp_MyDriveGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "👽小脑斧┃玩偶哥哥┃4K弹幕",
+      "api": "http://cnmb.cc.cd/jk/csp_WoGGGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "💬小脑斧┃弹幕",
+      "api": "http://cnmb.cc.cd/jk/csp_AIdanmu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎙️小脑斧┃易听音乐┃带歌词",
+      "api": "http://cnmb.cc.cd/jk/csp_MusicGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎧小脑斧┃库我音乐┃带歌词",
+      "api": "http://cnmb.cc.cd/jk/csp_AweSomeGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "💡小脑斧┃聚剧剧┃三盘",
+      "api": "http://cnmb.cc.cd/jk/csp_SeedhubGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎈小脑斧┃聚盘搜┃三盘",
+      "api": "http://cnmb.cc.cd/jk/csp_S_zpsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🌟小脑斧┃立播┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_LibvioGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🧀小脑斧┃奶酪┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_T4Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📔小脑斧┃厂长┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_NewCzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "💮小脑斧┃文采┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_JpysGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "☀小脑斧┃原创┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_YCyzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍄小脑斧┃比特┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_BttwooGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍎小脑斧┃苹果┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_LiteAppleGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📺小脑斧┃热播┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppTTGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐻小脑斧┃剧圈┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍙小脑斧┃下饭┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🦊小脑斧┃极狐┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐟小脑斧┃猫猫┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍊小脑斧┃橘子┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "👀小脑斧┃鲸鱼┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍓小脑斧┃糯米┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_NmyswvGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🏝小脑斧┃奥特┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AueteGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐭小脑斧┃荐片┃P2P",
+      "api": "http://cnmb.cc.cd/jk/csp_JPJGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🧲小脑斧┃新6V┃磁力",
+      "api": "http://cnmb.cc.cd/jk/csp_SixVGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🚌小脑斧┃巴士┃动漫",
+      "api": "http://cnmb.cc.cd/jk/csp_Dm84Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐾小脑斧┃日本┃动漫",
+      "api": "http://cnmb.cc.cd/jk/csp_Anime1Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "⚽小脑斧┃88┃看球",
+      "api": "http://cnmb.cc.cd/jk/csp_Sir88Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "⚽小脑斧┃超全┃看球",
+      "api": "http://cnmb.cc.cd/jk/csp_ZbzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "⚽小脑斧┃手机┃看球",
+      "api": "http://cnmb.cc.cd/jk/csp_KanqiuGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎶小脑斧┃明星┃MV",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎧小脑斧┃有声┃小说",
+      "api": "http://cnmb.cc.cd/jk/csp_Tingshu275Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🚑小脑斧┃急救┃教学",
+      "api": "http://cnmb.cc.cd/jk/csp_FirstAidGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐯小脑斧┃虎牙┃直播",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐟小脑斧┃斗鱼┃直播",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍄小脑斧┃抠抠┃搜搜",
+      "api": "http://cnmb.cc.cd/jk/csp_KkSsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🌈小脑斧┃优汐┃搜搜",
+      "api": "http://cnmb.cc.cd/jk/csp_UuSsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "😹小脑斧┃易搜┃三盘",
+      "api": "http://cnmb.cc.cd/jk/csp_YiSoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🦋小脑斧┃米搜┃优夸",
+      "api": "http://cnmb.cc.cd/jk/csp_MIPanSoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐟小脑斧┃盘她┃夸父",
+      "api": "http://cnmb.cc.cd/jk/csp_YpanSoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🛴小脑斧┃手机┃推送",
+      "api": "http://cnmb.cc.cd/jk/csp_PushGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🅱小脑斧┃哔哔合集┃弹幕",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🅱小脑斧┃哔哔演唱会┃弹幕",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃儿童┃启蒙",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃少儿┃教育",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃小学┃课堂",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃初中┃课堂",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃高中┃课堂",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "公众号：环宇轩网络",
+      "api": "http://cnmb.cc.cd/jk/csp_XPathGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "请勿相信视频中广告",
+      "api": "http://cnmb.cc.cd/jk/csp_XPathGuard",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5603,7 +5922,7 @@
     },
     {
       "url": "http://154.36.173.40/tgyg/bbm.json",
-      "error": "[Errno 54] Connection reset by peer"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
@@ -5611,7 +5930,7 @@
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg",
@@ -5627,7 +5946,7 @@
     },
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "error": "<urlopen error [Errno 61] Connection refused>"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
@@ -5650,28 +5969,24 @@
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
-      "url": "http://cnmb.cc.cd/jk/xnf.json",
-      "error": "HTTP Error 404: Not Found"
-    },
-    {
       "url": "http://www.饭太硬.net/tv",
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://ok213.top/tv",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -5] No address associated with hostname>"
     },
     {
       "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "error": "HTTP Error 400: Bad Request"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "http://hello.肥猫.com/",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
@@ -5695,15 +6010,15 @@
     },
     {
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "url": "http://ok321.top/ok",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -5] No address associated with hostname>"
     },
     {
       "url": "http://www.饭太硬.com/tv",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
@@ -5715,11 +6030,11 @@
     },
     {
       "url": "http://我不是.摸鱼儿.com",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
@@ -5727,7 +6042,7 @@
     },
     {
       "url": "https://100km.top/0",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -5] No address associated with hostname>"
     },
     {
       "url": "https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json",
@@ -5751,7 +6066,7 @@
     },
     {
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
-      "error": "[Errno 54] Connection reset by peer"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
@@ -5759,23 +6074,23 @@
     },
     {
       "url": "http://ttkx.live:55/天天开心",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "https://fmbox.cc",
-      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1006)>"
+      "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1081)>"
     },
     {
       "url": "http://tvbox.稳定接口.com",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "http://meowtv.cn/tv",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -5] No address associated with hostname>"
     },
     {
       "url": "http://itvbox.cc/云星日记",
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "error": "[Errno 104] Connection reset by peer"
     },
     {
       "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
@@ -5787,7 +6102,7 @@
     },
     {
       "url": "http://ygbh.live/box.php",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
@@ -5795,7 +6110,7 @@
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
-      "error": "<urlopen error [Errno 61] Connection refused>"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
@@ -5807,7 +6122,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1006)>"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
@@ -5819,12 +6134,12 @@
     },
     {
       "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
     },
     {
       "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
       "error": "HTTP Error 404: Not Found"
     }
   ],
-  "output": "/Users/liki/Documents/Codex/2026-05-25/syncnext/public/sourcesv3.json"
+  "output": "/home/runner/work/syncnext-feed/syncnext-feed/public/sourcesv3.json"
 }
