@@ -189,6 +189,213 @@
     "api": "https://www.moduzy.com/api.php/provide/vod/at/xml/"
   },
   {
+    "id": "23dfbb25-d594-5e8c-91f1-f60de2e190f1",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "360资源-采集",
+    "api": "https://360zy.com/api.php/seaxml/vod/",
+    "note": "TVBox import: 360资源"
+  },
+  {
+    "id": "4a067604-caca-5ced-9f31-41b3cb5f004b",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "A站｜星源",
+    "api": "https://xy.183933.xyz/php/acfun.php/provide/vod",
+    "note": "TVBox import: acfun"
+  },
+  {
+    "id": "f670fdb9-a3b0-5c30-b76b-0511019a9a6b",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "⛱┃可可┃采集",
+    "api": "https://kekezy1.com/api.php/provide/vod/?ac=list",
+    "note": "TVBox import: 可可资源"
+  },
+  {
+    "id": "39cca104-4821-56ee-bce7-86c7228066db",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "咪咕｜音乐",
+    "api": "https://xy.183933.xyz/php/miguyy.php/provide/vod",
+    "note": "TVBox import: mgyy"
+  },
+  {
+    "id": "3bc336e9-a22f-50ee-87e9-9250677e0553",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "移动｜星源",
+    "api": "https://xy.183933.xyz/php/pt.php/provide/vod/",
+    "note": "TVBox import: pt"
+  },
+  {
+    "id": "660f3a54-7b6c-5bfd-88fb-99400df26c05",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "索尼┃资源",
+    "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+    "note": "TVBox import: 索尼资源"
+  },
+  {
+    "id": "482d6c0d-55f2-5f79-a976-c48e2644e9f2",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "豆瓣 | 采集",
+    "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
+    "note": "TVBox import: 豆瓣采集资源"
+  },
+  {
+    "id": "7a551ae7-b4db-5184-a43a-e0fe6d107a44",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "酷我｜音乐",
+    "api": "https://xy.183933.xyz/php/kuwo.php/provide/vod",
+    "note": "TVBox import: kuwo"
+  },
+  {
+    "id": "a9105d57-f25e-53a2-b034-6e57c0b23924",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "量子",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/",
+    "note": "TVBox import: 量子"
+  },
+  {
+    "id": "5e823d87-c297-5553-99ec-d81c0fb4c00c",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "非凡",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+    "note": "TVBox import: 非凡"
+  },
+  {
+    "id": "e3186333-32c9-588f-a747-6f8de5e62c93",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🌪️暴风影音",
+    "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+    "note": "TVBox import: 暴风采集"
+  },
+  {
+    "id": "22a88026-4ed7-5906-ac51-94aaf3fe147c",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🎏百度┃采集",
+    "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+    "note": "TVBox import: 百度"
+  },
+  {
+    "id": "4059cfbc-9780-522d-a956-9171bfad0221",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🎫官采┃资源",
+    "api": "https://cj.jusj.top/api.php/provide/vod/?ac=list",
+    "note": "TVBox import: 官采"
+  },
+  {
+    "id": "63a05823-4476-576c-ab98-e57cbeb35c31",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🐉┃索尼┃高清",
+    "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+    "note": "TVBox import: csp_SNzy"
+  },
+  {
+    "id": "330e9ce4-bc4b-5ac0-807a-69e57081c594",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🐯┃奇虎┃采集",
+    "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+    "note": "TVBox import: 奇虎资源"
+  },
+  {
+    "id": "1c1aecd9-f143-5a28-a908-74cae1710a95",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🐯虎牙采集",
+    "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+    "note": "TVBox import: 虎牙"
+  },
+  {
+    "id": "28c68736-b738-5de6-ad70-3135ab5b4605",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "👒┃小胡┃资源┃",
+    "api": "http://c.小胡.icu/api.php/provide/vod/",
+    "note": "TVBox import: csp_小胡"
+  },
+  {
+    "id": "70b40823-af9e-5d74-a019-5ecb95b50568",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🛰️飞速┃采集",
+    "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+    "note": "TVBox import: feisu"
+  },
+  {
+    "id": "9ae67a2c-aae4-5626-add5-1cfd741bddcc",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🥑┃量子┃资源",
+    "api": "https://lzizy1.com/api.php/provide/vod/",
+    "note": "TVBox import: 量子资源"
+  },
+  {
+    "id": "793af6de-40e9-5dde-9c6b-179217891cd9",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🥗┃非凡┃资源",
+    "api": "http://ffzy1.tv/api.php/provide/vod/",
+    "note": "TVBox import: csp_非凡资源"
+  },
+  {
+    "id": "5aa7ac78-b6f0-5ad9-9518-94c3049d7f27",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🦁┃四九┃资源",
+    "api": "https://49zy1.com/api.php/provide/vod/?ac=list",
+    "note": "TVBox import: 49zy"
+  },
+  {
+    "id": "6436fbb6-327c-54d4-b102-5c1efc78b03d",
+    "Top": false,
+    "Priority": 520000,
+    "Search": false,
+    "name": "🦊火狐采集",
+    "api": "https://hhzyapi.com/api.php/provide/vod/",
+    "note": "TVBox import: 火狐"
+  },
+  {
+    "id": "267ac859-4ad0-5319-8c64-d0d49053ac3c",
+    "Top": false,
+    "Priority": 520000,
+    "Search": false,
+    "name": "🧞无广┃天堂",
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+    "note": "TVBox import: 电影天堂"
+  },
+  {
     "id": "7e3cb2a3-8a84-4dc9-8ba7-8d9a0071aee1",
     "Top": false,
     "note": "海量動漫",
