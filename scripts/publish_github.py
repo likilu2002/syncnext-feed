@@ -17,6 +17,7 @@ FILES = [
     "data/seed_sources.json",
     "data/source_feeds.json",
     "public/sourcesv3.json",
+    "public/shortlink.txt",
     "public/update-report.json",
     "scripts/update_syncnext.py",
     "scripts/publish_fragbin.py",
