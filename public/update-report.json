@@ -3,6 +3,8 @@
   "fetched": [
     "https://gist.githubusercontent.com/kenchar/b645b12150ccfa98a438824787c875e4/raw/sourcesv3.json"
   ],
+  "tvbox_imported": [],
+  "tvbox_skipped": [],
   "failed": [],
   "output": "/Users/liki/Documents/Codex/2026-05-25/syncnext/public/sourcesv3.json"
 }
