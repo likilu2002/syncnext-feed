@@ -8,6 +8,7 @@
 - `public/update-report.json`: 最近一次更新报告。
 - `data/seed_sources.json`: 本地保底源。网络失败时仍然可以生成订阅。
 - `data/source_feeds.json`: 可继续添加公开的 SyncNext JSON 源地址，用于自动合并。
+- `data/tvbox_feeds.json`: 可添加 TVBox 配置 URL，脚本会导入可直连的 CMS/VOD 源。
 
 ## 更新
 
@@ -36,3 +37,16 @@ SyncNext 需要一个公网可访问的 JSON 地址。当前已经发布到 GitH
 ## 继续扩展
 
 把新的公开订阅 JSON 加到 `data/source_feeds.json`，脚本会自动拉取、合并、按 `Top/Priority/name` 排序，并用 `api` 去重。
+
+如果你有 TVBox 接口，把它加到 `data/tvbox_feeds.json`：
+
+```json
+[
+  {
+    "name": "my-tvbox",
+    "url": "https://example.com/tvbox.json"
+  }
+]
+```
+
+脚本会读取 `sites` 并导入可直连的 CMS/VOD API。需要 jar、JS、drpy 或专用爬虫的 TVBox 站点会记录到 `public/update-report.json` 的 `tvbox_skipped` 里。
