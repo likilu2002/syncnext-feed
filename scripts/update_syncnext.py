@@ -4,6 +4,7 @@ import json
 import sys
 import uuid
 from pathlib import Path
+from urllib.parse import urljoin
 from urllib.error import URLError, HTTPError
 from urllib.request import Request, urlopen
 
@@ -11,6 +12,7 @@ from urllib.request import Request, urlopen
 ROOT = Path(__file__).resolve().parents[1]
 SEED_FILE = ROOT / "data" / "seed_sources.json"
 FEEDS_FILE = ROOT / "data" / "source_feeds.json"
+TVBOX_FEEDS_FILE = ROOT / "data" / "tvbox_feeds.json"
 OUTPUT_FILE = ROOT / "public" / "sourcesv3.json"
 REPORT_FILE = ROOT / "public" / "update-report.json"
 
@@ -32,6 +34,77 @@ def fetch_json(url, timeout=20):
     )
     with urlopen(request, timeout=timeout) as response:
         return json.loads(response.read().decode("utf-8-sig"))
+
+
+def absolute_url(base_url, value):
+    if not isinstance(value, str):
+        return ""
+    value = value.strip()
+    if not value:
+        return ""
+    return urljoin(base_url, value)
+
+
+def is_direct_vod_api(api):
+    if not isinstance(api, str):
+        return False
+    lowered = api.lower()
+    if lowered.startswith(("csp_", "js:", "drpy", "assets://", "file://")):
+        return False
+    if any(marker in lowered for marker in ("provide/vod", "seaxml/vod", "inc/api.php")):
+        return True
+    return lowered.endswith(("api.php", "api.php/provide/vod", "/provide/vod"))
+
+
+def normalize_tvbox_api(api):
+    if not isinstance(api, str):
+        return ""
+    api = api.strip()
+    if not api:
+        return ""
+    if any(marker in api.lower() for marker in ("provide/vod", "seaxml/vod", "inc/api.php")):
+        return api
+    if api.endswith("/"):
+        return api + "api.php/provide/vod/at/xml"
+    return api
+
+
+def tvbox_sites_to_syncnext(config, source_url):
+    if not isinstance(config, dict):
+        return [], [{"source": source_url, "reason": "config is not an object"}]
+
+    converted = []
+    skipped = []
+    for site in config.get("sites", []):
+        if not isinstance(site, dict):
+            continue
+        raw_api = absolute_url(source_url, site.get("api", ""))
+        name = site.get("name") or site.get("key")
+        if not name or not is_direct_vod_api(raw_api):
+            skipped.append(
+                {
+                    "source": source_url,
+                    "name": name or site.get("key") or "",
+                    "api": raw_api,
+                    "reason": "not a direct CMS/VOD API",
+                }
+            )
+            continue
+
+        item = {
+            "id": str(uuid.uuid5(uuid.NAMESPACE_URL, raw_api)),
+            "Top": bool(site.get("top", False)),
+            "Priority": 520000,
+            "Search": bool(site.get("searchable", 1)),
+            "name": str(name).strip(),
+            "api": normalize_tvbox_api(raw_api),
+            "note": f"TVBox import: {site.get('key', source_url)}",
+        }
+        if site.get("quickSearch") == 0:
+            item["Search"] = False
+        converted.append(item)
+
+    return converted, skipped
 
 
 def normalize_item(item):
@@ -82,6 +155,8 @@ def main():
 
     groups = [load_json(SEED_FILE, [])]
     fetched = []
+    tvbox_imported = []
+    tvbox_skipped = []
     failed = []
 
     if not args.offline:
@@ -95,6 +170,20 @@ def main():
             except (HTTPError, URLError, TimeoutError, json.JSONDecodeError, OSError) as exc:
                 failed.append({"url": url, "error": str(exc)})
 
+        for feed in load_json(TVBOX_FEEDS_FILE, []):
+            url = feed.get("url")
+            if not url:
+                continue
+            try:
+                config = fetch_json(url)
+                converted, skipped = tvbox_sites_to_syncnext(config, url)
+                groups.append(converted)
+                fetched.append(url)
+                tvbox_imported.append({"url": url, "count": len(converted)})
+                tvbox_skipped.extend(skipped)
+            except (HTTPError, URLError, TimeoutError, json.JSONDecodeError, OSError) as exc:
+                failed.append({"url": url, "error": str(exc)})
+
     merged = merge_sources(groups)
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_FILE.write_text(json.dumps(merged, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -103,6 +192,8 @@ def main():
             {
                 "total": len(merged),
                 "fetched": fetched,
+                "tvbox_imported": tvbox_imported,
+                "tvbox_skipped": tvbox_skipped,
                 "failed": failed,
                 "output": str(OUTPUT_FILE),
             },
