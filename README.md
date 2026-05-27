@@ -23,13 +23,13 @@ python3 scripts/update_syncnext.py --offline
 
 ## 一次性短链接设置
 
-SyncNext 需要一个公网可访问的 JSON 地址。运行下面的命令会把 `public/sourcesv3.json` 发布到 Rentry，并生成短链接：
+SyncNext 需要一个公网可访问的 JSON 地址。当前已经发布到 GitHub：
 
-```bash
-python3 scripts/publish_rentry.py
-```
+- 仓库：`https://github.com/likilu2002/syncnext-feed`
+- 推荐订阅地址：`https://raw.githubusercontent.com/likilu2002/syncnext-feed/main/public/sourcesv3.json`
+- 短链接：`https://tinyurl.com/28kdwnxj`
 
-短链接会写入 `public/shortlink.txt`。FragBin 的私密编辑信息会保存在 `private/fragbin.json`，不要公开这个文件。
+短链接也会写入 `public/shortlink.txt`。
 
 设置路径按官方说明是：SyncNext 菜单 -> 订阅频道列表，填入这个短链接即可。之后只要同一个公网 URL 的内容持续更新，SyncNext 里不需要反复换地址。
 
