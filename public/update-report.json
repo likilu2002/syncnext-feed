@@ -2460,12 +2460,6 @@
     },
     {
       "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍵茶杯狐",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "🍰永乐",
       "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XBPQ",
       "reason": "not a direct CMS/VOD API"
@@ -2582,12 +2576,6 @@
       "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "⭐星星短剧",
       "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XydjAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "⚾看球",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Kanqiu",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -6118,7 +6106,7 @@
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://weixine.net/ysc.json",
