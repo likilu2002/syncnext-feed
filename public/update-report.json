@@ -300,19 +300,7 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "☁️TVB┃APP",
-      "api": "http://rihou.cc:88/csp_Appfox",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🐸mifun｜APP",
-      "api": "http://rihou.cc:88/csp_AppGet",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🛸方舟┃APP",
       "api": "http://rihou.cc:88/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
     },
@@ -2522,6 +2510,12 @@
       "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "💢番薯动漫",
       "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Xdai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "💢鸭梨动漫（仅搜索）",
+      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Qiji",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -6094,7 +6088,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
