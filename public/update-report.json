@@ -204,6 +204,12 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🐳雷鲸┃网盘",
+      "api": "http://rihou.cc:88/csp_Leijing",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "🎳Seed┃Hub",
       "api": "http://rihou.cc:88/csp_SeedHub",
       "reason": "not a direct CMS/VOD API"
@@ -212,12 +218,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🤑4K┃指南",
       "api": "http://rihou.cc:88/csp_Xxzn",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🐳雷鲸┃网盘",
-      "api": "http://rihou.cc:88/csp_Leijing",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -337,12 +337,6 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🌽夸克┃短剧",
-      "api": "http://rihou.cc:88/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🥦短剧┃百度",
       "api": "http://rihou.cc:88/csp_XBPQ",
       "reason": "not a direct CMS/VOD API"
     },
@@ -5996,7 +5990,7 @@
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
