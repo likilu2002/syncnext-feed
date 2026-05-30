@@ -133,43 +133,43 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "👊夸克┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=quark",
+      "api": "https://so.yinpai.xyz/api.php?type=quark",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "✊百度┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=baidu",
+      "api": "https://so.yinpai.xyz/api.php?type=baidu",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "☝️优熙┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=uc",
+      "api": "https://so.yinpai.xyz/api.php?type=uc",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "✋天翼┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=tianyi",
+      "api": "https://so.yinpai.xyz/api.php?type=tianyi",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "✌️123┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=123",
+      "api": "https://so.yinpai.xyz/api.php?type=123",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "👍移动┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=mobile",
+      "api": "https://so.yinpai.xyz/api.php?type=mobile",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🤝迅雷┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=xunlei",
+      "api": "https://so.yinpai.xyz/api.php?type=xunlei",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -283,7 +283,7 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🐥短剧┃推送",
-      "api": "https://103.239.245.69:15151/duanju.php?type=dquark",
+      "api": "https://so.yinpai.xyz/duanju.php?type=dquark",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -307,6 +307,18 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🌳番薯┃APP",
+      "api": "http://rihou.cc:88/csp_AppGet",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🌺HG┃APP",
+      "api": "http://rihou.cc:88/csp_AppGet",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🐷八天┃APP",
       "api": "http://rihou.cc:88/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
     },
@@ -6088,7 +6100,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "Remote end closed connection without response"
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
