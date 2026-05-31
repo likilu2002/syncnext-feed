@@ -2514,14 +2514,14 @@
     },
     {
       "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "💢番薯动漫",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Xdai",
+      "name": "💢鸭梨动漫（仅搜索）",
+      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Qiji",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "💢鸭梨动漫（仅搜索）",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Qiji",
+      "name": "🐱嗷嗚",
+      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_AowuDmAmns",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -2576,6 +2576,30 @@
       "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
       "name": "⭐星星短剧",
       "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XydjAmns",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "🏆瓜子体育",
+      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_GuaziLiveAmns",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "🏆飞球体育",
+      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_FeiqLiveAmns",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "🏆88体育",
+      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_BbkqLiveAmns",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "📡虎牙",
+      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_HuyaLiveAmns",
       "reason": "not a direct CMS/VOD API"
     },
     {
