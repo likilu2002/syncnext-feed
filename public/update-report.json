@@ -14,7 +14,6 @@
     "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
     "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
-    "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
     "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
     "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
     "http://ztha.top/TVBox/thdjk.json",
@@ -36,7 +35,7 @@
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
       "count": 12,
-      "configs": 8
+      "configs": 7
     }
   ],
   "tvbox_skipped": [
@@ -2060,276 +2059,6 @@
       "source": "https://www.252035.xyz/p/jsm.json",
       "name": "🐼️┃电视┃直播",
       "api": "https://www.252035.xyz/p/lib/live2vod.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "🍥豆瓣推荐┃看网盘资源请点开此处第二项配置网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Douban",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "网盘及弹幕配置",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Config",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "多多影音┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "玩偶哥哥┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Wogg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "木偶哥哥┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "多多影音┃备用",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "至臻┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "奥秘┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "蜡笔┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "影巢┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Hdhive",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "皮皮虾┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Ppxzy",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "LIBVIO┃网盘",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Libvio",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "低端┃在线",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/lib/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "小苹果┃在线",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_LiteApple",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "动漫┃在线",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/lib/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "星芽┃短剧",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_AppXY",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "爱你┃短剧",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_XYQHiker",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "哔嘀┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_XYQHiker",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "荐片┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/lib/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "布谷┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "好恐怖┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "新6V┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Xb6v",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "磁力熊┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/lib/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "迅雷吧┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Xunlei8",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "SeedHub┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_SeedHub",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "酷吧┃磁力",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/lib/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "影搜┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_YingSo",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "小纸条┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_XiaoZhiTiao",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "TG搜索┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_TGYunPan",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "PanSearch┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_PanSearch",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "易搜┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_YiSo",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "千帆┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Qianfan",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "秒搜┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_MiaoSou",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "趣盘搜┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Funletu",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "大盘搜┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_DaPanSo",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "皮卡搜┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_PikaSo",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "混合盘┃网盘搜索",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_HunHePan",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "阿里云盘┃分享",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_AliShare",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "UC云盘┃分享",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_UCShare",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "夸克云盘┃分享",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_QuarkShare",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "115云盘分享",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_P115Share",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "哔哩哔哩",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "JustLive┃直播",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_JustLive",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "音悦台",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_Yinyuetai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
-      "name": "急救知识 ",
-      "api": "https://raw.githubusercontent.com/leevi0709/one/main/csp_FirstAid",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -6010,7 +5739,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -6023,6 +5752,10 @@
     {
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "http://ok321.top/ok",
