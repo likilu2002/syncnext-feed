@@ -305,12 +305,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🌳番薯┃APP",
-      "api": "http://rihou.cc:88/csp_AppGet",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🌺HG┃APP",
       "api": "http://rihou.cc:88/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
