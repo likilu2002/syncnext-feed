@@ -10,11 +10,11 @@
     "http://mzrjk.top/音乐",
     "https://7337.kstore.space/TGMTV/TGyinyue.txt",
     "http://box.nihaohezi.com/app/hzjy.json",
+    "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
     "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
     "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
-    "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
     "http://ztha.top/TVBox/thdjk.json",
     "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
     "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
@@ -29,12 +29,12 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 11,
-      "configs": 10
+      "configs": 11
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
       "count": 12,
-      "configs": 7
+      "configs": 6
     }
   ],
   "tvbox_skipped": [
@@ -198,12 +198,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🏇七味┃4K",
       "api": "http://rihou.cc:88/csp_QiWei",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🐳雷鲸┃网盘",
-      "api": "http://rihou.cc:88/csp_Leijing",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -1077,6 +1071,312 @@
       "reason": "not a direct CMS/VOD API"
     },
     {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐅小脑斧3.17更新，公众号【环宇轩网络】🐅",
+      "api": "http://cnmb.cc.cd/jk/csp_DouDouGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🗂小脑斧┃我的云盘┃配置",
+      "api": "http://cnmb.cc.cd/jk/csp_MyDriveGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "👽小脑斧┃玩偶哥哥┃4K弹幕",
+      "api": "http://cnmb.cc.cd/jk/csp_WoGGGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "💬小脑斧┃弹幕",
+      "api": "http://cnmb.cc.cd/jk/csp_AIdanmu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎙️小脑斧┃易听音乐┃带歌词",
+      "api": "http://cnmb.cc.cd/jk/csp_MusicGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎧小脑斧┃库我音乐┃带歌词",
+      "api": "http://cnmb.cc.cd/jk/csp_AweSomeGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "💡小脑斧┃聚剧剧┃三盘",
+      "api": "http://cnmb.cc.cd/jk/csp_SeedhubGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎈小脑斧┃聚盘搜┃三盘",
+      "api": "http://cnmb.cc.cd/jk/csp_S_zpsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🌟小脑斧┃立播┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_LibvioGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🧀小脑斧┃奶酪┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_T4Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📔小脑斧┃厂长┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_NewCzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "💮小脑斧┃文采┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_JpysGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "☀小脑斧┃原创┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_YCyzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍄小脑斧┃比特┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_BttwooGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍎小脑斧┃苹果┃秒播",
+      "api": "http://cnmb.cc.cd/jk/csp_LiteAppleGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📺小脑斧┃热播┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppTTGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐻小脑斧┃剧圈┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍙小脑斧┃下饭┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🦊小脑斧┃极狐┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐟小脑斧┃猫猫┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍊小脑斧┃橘子┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "👀小脑斧┃鲸鱼┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍓小脑斧┃糯米┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_NmyswvGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🏝小脑斧┃奥特┃多线",
+      "api": "http://cnmb.cc.cd/jk/csp_AueteGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐭小脑斧┃荐片┃P2P",
+      "api": "http://cnmb.cc.cd/jk/csp_JPJGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🧲小脑斧┃新6V┃磁力",
+      "api": "http://cnmb.cc.cd/jk/csp_SixVGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🚌小脑斧┃巴士┃动漫",
+      "api": "http://cnmb.cc.cd/jk/csp_Dm84Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐾小脑斧┃日本┃动漫",
+      "api": "http://cnmb.cc.cd/jk/csp_Anime1Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "⚽小脑斧┃88┃看球",
+      "api": "http://cnmb.cc.cd/jk/csp_Sir88Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "⚽小脑斧┃超全┃看球",
+      "api": "http://cnmb.cc.cd/jk/csp_ZbzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "⚽小脑斧┃手机┃看球",
+      "api": "http://cnmb.cc.cd/jk/csp_KanqiuGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎶小脑斧┃明星┃MV",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🎧小脑斧┃有声┃小说",
+      "api": "http://cnmb.cc.cd/jk/csp_Tingshu275Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🚑小脑斧┃急救┃教学",
+      "api": "http://cnmb.cc.cd/jk/csp_FirstAidGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐯小脑斧┃虎牙┃直播",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐟小脑斧┃斗鱼┃直播",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🍄小脑斧┃抠抠┃搜搜",
+      "api": "http://cnmb.cc.cd/jk/csp_KkSsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🌈小脑斧┃优汐┃搜搜",
+      "api": "http://cnmb.cc.cd/jk/csp_UuSsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "😹小脑斧┃易搜┃三盘",
+      "api": "http://cnmb.cc.cd/jk/csp_YiSoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🦋小脑斧┃米搜┃优夸",
+      "api": "http://cnmb.cc.cd/jk/csp_MIPanSoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🐟小脑斧┃盘她┃夸父",
+      "api": "http://cnmb.cc.cd/jk/csp_YpanSoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🛴小脑斧┃手机┃推送",
+      "api": "http://cnmb.cc.cd/jk/csp_PushGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🅱小脑斧┃哔哔合集┃弹幕",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "🅱小脑斧┃哔哔演唱会┃弹幕",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃儿童┃启蒙",
+      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃少儿┃教育",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃小学┃课堂",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃初中┃课堂",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "📚小脑斧┃高中┃课堂",
+      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "公众号：环宇轩网络",
+      "api": "http://cnmb.cc.cd/jk/csp_XPathGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://cnmb.cc.cd/jk/xnf.json",
+      "name": "请勿相信视频中广告",
+      "api": "http://cnmb.cc.cd/jk/csp_XPathGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
       "source": "https://www.252035.xyz/z/FongMi.json",
       "name": "Nostr推荐",
       "api": "https://www.252035.xyz/z/csp_Nostr",
@@ -1746,450 +2046,6 @@
       "source": "https://www.252035.xyz/p/jsm.json",
       "name": "🐼️┃电视┃直播",
       "api": "https://www.252035.xyz/p/lib/live2vod.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🔍Tg豆瓣┃本接口免费-🈲贩卖",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_TgYunDouBanPan",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "Ⓜ️嗷呜弹幕设置",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_AAConfigAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅿网盘配置中心",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_ConfigCenter",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍉瓜子",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_GuaziAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "⛅天天",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_TTian",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🥇金牌",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Jpys",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐵师兄",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_AppV6",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐶特狗",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_AppV6Amns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🏃‍♂️‍➡️追剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_AppV7Amns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍊柚子",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_AppV7Amns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍌小黄人",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_AppV7Amns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🚀首发",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Qiji",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🥽趣看",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Qiji",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍟王子",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Xdai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🦁灵虎",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Xdai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🏭厂长",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_CzzyAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "✂️荐片",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Jianpian",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🔥骚火",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_SaoHuo",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "👩‍🌾农民",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XYQHiker",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍁片吧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍰永乐",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🎁面包",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🧲电影港",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Dygang",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🧲新6V",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_New6v",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🧲电影天堂",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_DyGod",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🧲七妹",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_QnMp4",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🧲美剧迷",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_MeijuMi",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "💘360",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_SP360",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🚌动漫巴士",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Dm84",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "💢鸭梨动漫（仅搜索）",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Qiji",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐱嗷嗚",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_AowuDmAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "☕韩剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_HxqAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐲漫剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_HgggAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "😈短剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_HgggAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍭豪堪短剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_HHkkAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🛸盒马短剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_HemaAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🧸拜拜短剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_BddjAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🎀围观短剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_WgdjAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐱喵喵短剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_QmdjAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "⭐星星短剧",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_XydjAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🏆瓜子体育",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_GuaziLiveAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🏆飞球体育",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_FeiqLiveAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🏆88体育",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_BbkqLiveAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "📡虎牙",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_HuyaLiveAmns",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐶酷狗",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Kugou",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🚑急救教学",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_FirstAid",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅿片库",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Qiwei",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "📀pansou|fish",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_PanSouFish",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "👽玩偶",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Wogg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "😈二小",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "💯至臻",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐯虎斑",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "😹傻样",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🖍︎蜡笔",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🧸木偶",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "0️⃣讴歌",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🌟多多",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "⚡闪电",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_kongbai",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "⭐️剧透社",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Star2",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "️4️⃣4k指南",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_FourKZN",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🍥盘Ta",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_PanTa",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅿网盘集合|4K",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_网盘集合",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "⚡Youtube",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Youtube",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅿TgYunPan|本地",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_TgYunPanLocal",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🎾推送",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Push",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐯虎牙直播",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🐟斗鱼直播",
-      "api": "https://git.yylx.win/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅱️哔哩哔哩",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅱️相声小品",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅱️戏曲",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅱️少儿",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅱️小学",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅱️初中",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "name": "🅱️高中",
-      "api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/csp_Bili",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5391,10 +5247,6 @@
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
-      "url": "http://cnmb.cc.cd/jk/xnf.json",
-      "error": "<urlopen error timed out>"
-    },
-    {
       "url": "http://www.饭太硬.net/tv",
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
@@ -5507,6 +5359,10 @@
       "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
+      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "error": "Extra data: line 1 column 16 (char 15)"
+    },
+    {
       "url": "https://fmbox.cc",
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fmbox.cc'. (_ssl.c:1081)>"
     },
@@ -5520,7 +5376,7 @@
     },
     {
       "url": "http://itvbox.cc/云星日记",
-      "error": "[Errno 104] Connection reset by peer"
+      "error": "HTTP Error 503: Service Temporarily Unavailable"
     },
     {
       "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
@@ -5536,7 +5392,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
