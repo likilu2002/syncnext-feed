@@ -10,7 +10,6 @@
     "http://mzrjk.top/音乐",
     "https://7337.kstore.space/TGMTV/TGyinyue.txt",
     "http://box.nihaohezi.com/app/hzjy.json",
-    "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
     "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -30,7 +29,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 11,
-      "configs": 11
+      "configs": 10
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -1075,312 +1074,6 @@
       "source": "http://box.nihaohezi.com/app/hzjy.json",
       "name": "📂本地视频",
       "api": "http://box.nihaohezi.com/app/csp_LocalFile",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🐅小脑斧3.17更新，公众号【环宇轩网络】🐅",
-      "api": "http://cnmb.cc.cd/jk/csp_DouDouGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🗂小脑斧┃我的云盘┃配置",
-      "api": "http://cnmb.cc.cd/jk/csp_MyDriveGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "👽小脑斧┃玩偶哥哥┃4K弹幕",
-      "api": "http://cnmb.cc.cd/jk/csp_WoGGGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "💬小脑斧┃弹幕",
-      "api": "http://cnmb.cc.cd/jk/csp_AIdanmu",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🎙️小脑斧┃易听音乐┃带歌词",
-      "api": "http://cnmb.cc.cd/jk/csp_MusicGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🎧小脑斧┃库我音乐┃带歌词",
-      "api": "http://cnmb.cc.cd/jk/csp_AweSomeGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "💡小脑斧┃聚剧剧┃三盘",
-      "api": "http://cnmb.cc.cd/jk/csp_SeedhubGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🎈小脑斧┃聚盘搜┃三盘",
-      "api": "http://cnmb.cc.cd/jk/csp_S_zpsGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🌟小脑斧┃立播┃秒播",
-      "api": "http://cnmb.cc.cd/jk/csp_LibvioGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🧀小脑斧┃奶酪┃秒播",
-      "api": "http://cnmb.cc.cd/jk/csp_T4Guard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "📔小脑斧┃厂长┃秒播",
-      "api": "http://cnmb.cc.cd/jk/csp_NewCzGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "💮小脑斧┃文采┃秒播",
-      "api": "http://cnmb.cc.cd/jk/csp_JpysGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "☀小脑斧┃原创┃秒播",
-      "api": "http://cnmb.cc.cd/jk/csp_YCyzGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🍄小脑斧┃比特┃秒播",
-      "api": "http://cnmb.cc.cd/jk/csp_BttwooGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🍎小脑斧┃苹果┃秒播",
-      "api": "http://cnmb.cc.cd/jk/csp_LiteAppleGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "📺小脑斧┃热播┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_AppTTGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🐻小脑斧┃剧圈┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🍙小脑斧┃下饭┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🦊小脑斧┃极狐┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🐟小脑斧┃猫猫┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🍊小脑斧┃橘子┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "👀小脑斧┃鲸鱼┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_AppSxGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🍓小脑斧┃糯米┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_NmyswvGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🏝小脑斧┃奥特┃多线",
-      "api": "http://cnmb.cc.cd/jk/csp_AueteGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🐭小脑斧┃荐片┃P2P",
-      "api": "http://cnmb.cc.cd/jk/csp_JPJGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🧲小脑斧┃新6V┃磁力",
-      "api": "http://cnmb.cc.cd/jk/csp_SixVGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🚌小脑斧┃巴士┃动漫",
-      "api": "http://cnmb.cc.cd/jk/csp_Dm84Guard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🐾小脑斧┃日本┃动漫",
-      "api": "http://cnmb.cc.cd/jk/csp_Anime1Guard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "⚽小脑斧┃88┃看球",
-      "api": "http://cnmb.cc.cd/jk/csp_Sir88Guard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "⚽小脑斧┃超全┃看球",
-      "api": "http://cnmb.cc.cd/jk/csp_ZbzGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "⚽小脑斧┃手机┃看球",
-      "api": "http://cnmb.cc.cd/jk/csp_KanqiuGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🎶小脑斧┃明星┃MV",
-      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🎧小脑斧┃有声┃小说",
-      "api": "http://cnmb.cc.cd/jk/csp_Tingshu275Guard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🚑小脑斧┃急救┃教学",
-      "api": "http://cnmb.cc.cd/jk/csp_FirstAidGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🐯小脑斧┃虎牙┃直播",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🐟小脑斧┃斗鱼┃直播",
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🍄小脑斧┃抠抠┃搜搜",
-      "api": "http://cnmb.cc.cd/jk/csp_KkSsGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🌈小脑斧┃优汐┃搜搜",
-      "api": "http://cnmb.cc.cd/jk/csp_UuSsGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "😹小脑斧┃易搜┃三盘",
-      "api": "http://cnmb.cc.cd/jk/csp_YiSoGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🦋小脑斧┃米搜┃优夸",
-      "api": "http://cnmb.cc.cd/jk/csp_MIPanSoGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🐟小脑斧┃盘她┃夸父",
-      "api": "http://cnmb.cc.cd/jk/csp_YpanSoGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🛴小脑斧┃手机┃推送",
-      "api": "http://cnmb.cc.cd/jk/csp_PushGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🅱小脑斧┃哔哔合集┃弹幕",
-      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "🅱小脑斧┃哔哔演唱会┃弹幕",
-      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "📚小脑斧┃儿童┃启蒙",
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "📚小脑斧┃少儿┃教育",
-      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "📚小脑斧┃小学┃课堂",
-      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "📚小脑斧┃初中┃课堂",
-      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "📚小脑斧┃高中┃课堂",
-      "api": "http://cnmb.cc.cd/jk/csp_BiliGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "公众号：环宇轩网络",
-      "api": "http://cnmb.cc.cd/jk/csp_XPathGuard",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://cnmb.cc.cd/jk/xnf.json",
-      "name": "请勿相信视频中广告",
-      "api": "http://cnmb.cc.cd/jk/csp_XPathGuard",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5698,6 +5391,10 @@
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
+      "url": "http://cnmb.cc.cd/jk/xnf.json",
+      "error": "<urlopen error timed out>"
+    },
+    {
       "url": "http://www.饭太硬.net/tv",
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
@@ -5823,7 +5520,7 @@
     },
     {
       "url": "http://itvbox.cc/云星日记",
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "error": "[Errno 104] Connection reset by peer"
     },
     {
       "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
