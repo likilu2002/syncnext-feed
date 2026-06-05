@@ -46,6 +46,12 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🥳TG┃豆瓣",
+      "api": "http://rihou.cc:88/csp_TgDouban",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "😊配置┃中心",
       "api": "http://rihou.cc:88/csp_Config",
       "reason": "not a direct CMS/VOD API"
@@ -120,12 +126,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🥺盘搜┃搜索",
       "api": "http://rihou.cc:88/csp_PanSou",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "😊PG┃豆瓣",
-      "api": "http://rihou.cc:88/csp_PgDouban",
       "reason": "not a direct CMS/VOD API"
     },
     {
