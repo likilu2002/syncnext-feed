@@ -5256,7 +5256,7 @@
     },
     {
       "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "error": "HTTP Error 400: Bad Request"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://hello.肥猫.com/",
@@ -5392,7 +5392,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
