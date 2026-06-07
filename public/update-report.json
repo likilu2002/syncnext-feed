@@ -118,12 +118,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🥳TG┃豆瓣",
-      "api": "http://rihou.cc:88/csp_TgDouban",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🥺盘搜┃搜索",
       "api": "http://rihou.cc:88/csp_PanSou",
       "reason": "not a direct CMS/VOD API"
@@ -5392,7 +5386,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "Remote end closed connection without response"
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
