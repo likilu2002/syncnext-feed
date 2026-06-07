@@ -184,6 +184,12 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🦆光鸭┃至臻",
+      "api": "http://rihou.cc:88/csp_Qsxy",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "🚴心跳┃4K",
       "api": "http://rihou.cc:88/csp_XinTiao",
       "reason": "not a direct CMS/VOD API"
