@@ -9,7 +9,6 @@
     "http://mzrjk.top/戏曲",
     "http://mzrjk.top/音乐",
     "https://7337.kstore.space/TGMTV/TGyinyue.txt",
-    "http://box.nihaohezi.com/app/hzjy.json",
     "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
@@ -29,7 +28,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 11,
-      "configs": 11
+      "configs": 10
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -1038,36 +1037,6 @@
       "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
       "name": "TG音乐：请定期清缓存",
       "api": "",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://box.nihaohezi.com/app/hzjy.json",
-      "name": "📚学前教育📚",
-      "api": "http://box.nihaohezi.com/app/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://box.nihaohezi.com/app/hzjy.json",
-      "name": "📚小学课堂📚",
-      "api": "http://box.nihaohezi.com/app/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://box.nihaohezi.com/app/hzjy.json",
-      "name": "初中｜课堂",
-      "api": "http://box.nihaohezi.com/app/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://box.nihaohezi.com/app/hzjy.json",
-      "name": "高中｜课堂",
-      "api": "http://box.nihaohezi.com/app/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://box.nihaohezi.com/app/hzjy.json",
-      "name": "📂本地视频",
-      "api": "http://box.nihaohezi.com/app/csp_LocalFile",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5239,6 +5208,10 @@
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
+      "url": "http://box.nihaohezi.com/app/hzjy.json",
+      "error": "<urlopen error timed out>"
+    },
+    {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
@@ -5360,7 +5333,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 16 (char 15)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
