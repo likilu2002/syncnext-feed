@@ -1,5 +1,5 @@
 {
-  "total": 48,
+  "total": 50,
   "fetched": [
     "https://gist.githubusercontent.com/kenchar/b645b12150ccfa98a438824787c875e4/raw/sourcesv3.json",
     "https://raw.githubusercontent.com/2124662895/2026cbdva/main/xfnn.json",
@@ -28,7 +28,7 @@
     },
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
-      "count": 9,
+      "count": 11,
       "configs": 11
     },
     {
@@ -42,6 +42,12 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🥰豆瓣┃VOX",
       "api": "http://rihou.cc:88/csp_Douban",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🥳TG┃豆瓣",
+      "api": "http://rihou.cc:88/csp_TgDouban",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -112,62 +118,50 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🥳TG┃豆瓣",
-      "api": "http://rihou.cc:88/csp_TgDouban",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🥺盘搜┃搜索",
       "api": "http://rihou.cc:88/csp_PanSou",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "😊PG┃豆瓣",
-      "api": "http://rihou.cc:88/csp_PgDouban",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "👊夸克┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=quark",
+      "api": "https://so.yinpai.xyz/api.php?type=quark",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "✊百度┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=baidu",
+      "api": "https://so.yinpai.xyz/api.php?type=baidu",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "☝️优熙┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=uc",
+      "api": "https://so.yinpai.xyz/api.php?type=uc",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "✋天翼┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=tianyi",
+      "api": "https://so.yinpai.xyz/api.php?type=tianyi",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "✌️123┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=123",
+      "api": "https://so.yinpai.xyz/api.php?type=123",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "👍移动┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=mobile",
+      "api": "https://so.yinpai.xyz/api.php?type=mobile",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🤝迅雷┃推送",
-      "api": "https://103.239.245.69:15151/api.php?type=xunlei",
+      "api": "https://so.yinpai.xyz/api.php?type=xunlei",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -186,6 +180,24 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "😃盘链┃4K",
       "api": "http://rihou.cc:88/csp_PingLian",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🦆光鸭┃至臻",
+      "api": "http://rihou.cc:88/csp_Qsxy",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🚴心跳┃4K",
+      "api": "http://rihou.cc:88/csp_XinTiao",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🏇七味┃4K",
+      "api": "http://rihou.cc:88/csp_QiWei",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -263,7 +275,7 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🐥短剧┃推送",
-      "api": "https://103.239.245.69:15151/duanju.php?type=dquark",
+      "api": "https://so.yinpai.xyz/duanju.php?type=dquark",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -274,14 +286,8 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "😒短剧┃AI",
-      "api": "http://rihou.cc:88/csp_DuanJuCen",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "☁️TVB┃APP",
-      "api": "http://rihou.cc:88/csp_Appfox",
+      "name": "🎰聚合┃短剧",
+      "api": "http://rihou.cc:88/csp_Jhdj",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -292,13 +298,13 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🛸方舟┃APP",
+      "name": "🌺HG┃APP",
       "api": "http://rihou.cc:88/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🌳番薯┃APP",
+      "name": "🐷八天┃APP",
       "api": "http://rihou.cc:88/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
     },
@@ -317,12 +323,6 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🌽夸克┃短剧",
-      "api": "http://rihou.cc:88/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🥦短剧┃百度",
       "api": "http://rihou.cc:88/csp_XBPQ",
       "reason": "not a direct CMS/VOD API"
     },
@@ -371,12 +371,6 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "📚随身┃评书",
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "📚爱上┃听书",
       "api": "http://rihou.cc:88/js/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
     },
@@ -466,12 +460,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🐑短剧┃（羊）",
-      "api": "http://rihou.cc:88/js/聚合短剧.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🪐星辰┃（羊）",
       "api": "http://rihou.cc:88/js/星辰影院.js",
       "reason": "not a direct CMS/VOD API"
@@ -508,6 +496,12 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🎿采集┃合集",
+      "api": "http://rihou.cc:88/csp_Cjhj",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "👹戏曲┃大全",
       "api": "http://rihou.cc:88/csp_Lyxq",
       "reason": "not a direct CMS/VOD API"
@@ -515,31 +509,31 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🅱️哔哩┃合集",
-      "api": "http://rihou.cc:88/csp_Bili",
+      "api": "http://rihou.cc:88/csp_BiliJs",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🅱️哔哩┃音乐",
-      "api": "http://rihou.cc:88/csp_Bili",
+      "api": "http://rihou.cc:88/csp_BiliJs",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🅱️MV┃音乐",
-      "api": "http://rihou.cc:88/csp_Bili",
+      "api": "http://rihou.cc:88/csp_BiliJs",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🅱️儿童┃最爱",
-      "api": "http://rihou.cc:88/csp_Bili",
+      "api": "http://rihou.cc:88/csp_BiliJs",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🅱️最爱┃美食",
-      "api": "http://rihou.cc:88/csp_Bili",
+      "name": "🅱️喜欢┃美食",
+      "api": "http://rihou.cc:88/csp_BiliJs",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -558,12 +552,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🤺摔跤┃体育",
       "api": "http://rihou.cc:88/csp_ShuaiJiao",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🦚采集┃之王",
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5364,7 +5352,7 @@
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "http://ttkx.live:55/天天开心",
