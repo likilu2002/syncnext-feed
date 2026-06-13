@@ -301,7 +301,7 @@
     "Top": false,
     "Priority": 520000,
     "Search": true,
-    "name": "🎫官采┃资源",
+    "name": "🎫官采┃[采集]",
     "api": "https://cj.jusj.top/api.php/provide/vod/?ac=list",
     "note": "TVBox import: 官采"
   },
@@ -391,7 +391,7 @@
     "Top": false,
     "Priority": 520000,
     "Search": false,
-    "name": "🧞无广┃天堂",
+    "name": "🧞无广┃[采集]",
     "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
     "note": "TVBox import: 电影天堂"
   },
