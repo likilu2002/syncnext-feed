@@ -5306,7 +5306,7 @@
     },
     {
       "url": "http://www.饭太硬.com/tv",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
@@ -5398,7 +5398,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
