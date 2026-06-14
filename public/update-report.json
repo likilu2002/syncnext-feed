@@ -256,12 +256,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🌺HG┃[APP]",
-      "api": "http://rihou.cc:88/csp_AppGet",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🐷八天┃[APP]",
       "api": "http://rihou.cc:88/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
@@ -293,12 +287,6 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🐶旺旺┃[XBPQ]",
-      "api": "http://rihou.cc:88/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🍩VS┃[XBPQ]",
       "api": "http://rihou.cc:88/csp_XBPQ",
       "reason": "not a direct CMS/VOD API"
     },
@@ -358,12 +346,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🎭戏曲┃[听看]",
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🚘爱看┃[网盘]",
       "api": "http://rihou.cc:88/js/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
@@ -384,12 +366,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "💡灯泡｜[网盘]",
       "api": "http://rihou.cc:88/js/灯泡网盘.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "⛴️港湾┃[秒播]",
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
     },
     {
