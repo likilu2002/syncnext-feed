@@ -472,7 +472,19 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🏀酷克┃[体育]",
+      "name": "⚽瓜子┃[体育]",
+      "api": "http://rihou.cc:88/csp_GuaziSport",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "⚽聚合┃[体育]",
+      "api": "http://rihou.cc:88/csp_JuheSport",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "⚽酷克┃[体育]",
       "api": "http://jiduo.3116598.xyz/PHP/pkty.php",
       "reason": "not a direct CMS/VOD API"
     },
@@ -484,13 +496,13 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "😇网盘┃Alist",
+      "name": "😇Alist┃[网络]",
       "api": "http://rihou.cc:88/csp_AList",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🙃Web┃DAV",
+      "name": "🙃Web┃[网络]",
       "api": "http://rihou.cc:88/csp_WebDAV",
       "reason": "not a direct CMS/VOD API"
     },
@@ -5288,7 +5300,7 @@
     },
     {
       "url": "http://www.饭太硬.com/tv",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
@@ -5348,7 +5360,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 16 (char 15)"
+      "error": "Extra data: line 1 column 21 (char 20)"
     },
     {
       "url": "https://fmbox.cc",
@@ -5380,7 +5392,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
