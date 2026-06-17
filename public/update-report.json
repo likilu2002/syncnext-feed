@@ -5240,7 +5240,7 @@
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily"
     },
     {
       "url": "http://jiduo.3116598.xyz",
@@ -5300,7 +5300,7 @@
     },
     {
       "url": "http://www.饭太硬.com/tv",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
@@ -5364,7 +5364,7 @@
     },
     {
       "url": "https://fmbox.cc",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fmbox.cc'. (_ssl.c:1081)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fmbox.cc'. (_ssl.c:1082)>"
     },
     {
       "url": "http://tvbox.稳定接口.com",
@@ -5392,7 +5392,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
@@ -5408,7 +5408,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
@@ -5420,7 +5420,7 @@
     },
     {
       "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
     },
     {
       "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
