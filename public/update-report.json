@@ -5246,7 +5246,7 @@
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily"
     },
     {
       "url": "http://jiduo.3116598.xyz",
