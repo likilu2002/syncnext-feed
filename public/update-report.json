@@ -388,12 +388,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "👭人人┃[秒播]",
-      "api": "http://jiduo.3116598.xyz/PHP/rrsp.php",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🪐星辰┃[秒播]",
       "api": "http://rihou.cc:88/js/星辰影院.js",
       "reason": "not a direct CMS/VOD API"
@@ -5246,7 +5240,7 @@
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-      "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://jiduo.3116598.xyz",
