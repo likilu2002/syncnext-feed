@@ -5264,7 +5264,7 @@
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 444: "
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
@@ -5416,7 +5416,7 @@
     },
     {
       "url": "https://龙伊.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
     },
     {
       "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
