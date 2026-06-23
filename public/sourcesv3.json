@@ -198,15 +198,6 @@
     "note": "TVBox import: 360资源"
   },
   {
-    "id": "4a067604-caca-5ced-9f31-41b3cb5f004b",
-    "Top": false,
-    "Priority": 520000,
-    "Search": true,
-    "name": "A站｜星源",
-    "api": "https://xy.183933.xyz/php/acfun.php/provide/vod",
-    "note": "TVBox import: acfun"
-  },
-  {
     "id": "f670fdb9-a3b0-5c30-b76b-0511019a9a6b",
     "Top": false,
     "Priority": 520000,
@@ -214,24 +205,6 @@
     "name": "⛱┃可可┃采集",
     "api": "https://kekezy1.com/api.php/provide/vod/?ac=list",
     "note": "TVBox import: 可可资源"
-  },
-  {
-    "id": "39cca104-4821-56ee-bce7-86c7228066db",
-    "Top": false,
-    "Priority": 520000,
-    "Search": true,
-    "name": "咪咕｜音乐",
-    "api": "https://xy.183933.xyz/php/miguyy.php/provide/vod",
-    "note": "TVBox import: mgyy"
-  },
-  {
-    "id": "3bc336e9-a22f-50ee-87e9-9250677e0553",
-    "Top": false,
-    "Priority": 520000,
-    "Search": true,
-    "name": "移动｜星源",
-    "api": "https://xy.183933.xyz/php/pt.php/provide/vod/",
-    "note": "TVBox import: pt"
   },
   {
     "id": "660f3a54-7b6c-5bfd-88fb-99400df26c05",
@@ -250,15 +223,6 @@
     "name": "豆瓣 | 采集",
     "api": "https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/josn/",
     "note": "TVBox import: 豆瓣采集资源"
-  },
-  {
-    "id": "7a551ae7-b4db-5184-a43a-e0fe6d107a44",
-    "Top": false,
-    "Priority": 520000,
-    "Search": true,
-    "name": "酷我｜音乐",
-    "api": "https://xy.183933.xyz/php/kuwo.php/provide/vod",
-    "note": "TVBox import: kuwo"
   },
   {
     "id": "a9105d57-f25e-53a2-b034-6e57c0b23924",
