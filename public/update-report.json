@@ -2050,26 +2050,278 @@
     },
     {
       "source": "http://ztha.top/TVBox/thdjk.json",
-      "name": "注意❗❗❗此服务器已更换",
-      "api": "http://ztha.top/TVBox/csp_Douban",
+      "name": "📛公众号:挺好分享",
+      "api": "http://ztha.top/TVBox/csp_DouDouGuard",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://ztha.top/TVBox/thdjk.json",
-      "name": "请关注公众号:挺好分享",
-      "api": "http://ztha.top/TVBox/csp_XPath",
+      "name": "📛我的云盘┃我配置",
+      "api": "http://ztha.top/TVBox/csp_MyDriveGuard",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://ztha.top/TVBox/thdjk.json",
-      "name": "后台回复：接口",
-      "api": "http://ztha.top/TVBox/csp_Douban",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "api": "http://ztha.top/TVBox/csp_WoGGGuard",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://ztha.top/TVBox/thdjk.json",
-      "name": "获取新接口",
-      "api": "http://ztha.top/TVBox/csp_XPath",
+      "name": "🚀叨观荐影┃预告片",
+      "api": "http://ztha.top/TVBox/csp_YGPGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🎙️易听音乐┃带歌词",
+      "api": "http://ztha.top/TVBox/csp_MusicGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "💡聚剧剧┃四盘",
+      "api": "http://ztha.top/TVBox/csp_SeedhubGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🎈聚盘搜┃四盘",
+      "api": "http://ztha.top/TVBox/csp_S_zpsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🌞光影┃不卡",
+      "api": "http://ztha.top/TVBox/csp_T4Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "👒原创┃不卡",
+      "api": "http://ztha.top/TVBox/csp_YCyzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "📔厂长┃不卡",
+      "api": "http://ztha.top/TVBox/csp_NewCzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🌟立播┃不卡",
+      "api": "http://ztha.top/TVBox/csp_LibvioGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "👀瓜子┃不卡",
+      "api": "http://ztha.top/TVBox/csp_AppgzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🍄比特┃不卡",
+      "api": "http://ztha.top/TVBox/csp_BttwooGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🥝荐片┃不卡",
+      "api": "http://ztha.top/TVBox/csp_JPJGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🍓糯米┃秒播",
+      "api": "http://ztha.top/TVBox/csp_NmyswvGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "💮文采┃秒播",
+      "api": "http://ztha.top/TVBox/csp_JpysGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🧀奶酪┃秒播",
+      "api": "http://ztha.top/TVBox/csp_T4Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "📺热播┃多线",
+      "api": "http://ztha.top/TVBox/csp_AppTTGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🌸茉莉┃多线",
+      "api": "http://ztha.top/TVBox/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🦊播客┃多线",
+      "api": "http://ztha.top/TVBox/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🐻剧圈┃多线",
+      "api": "http://ztha.top/TVBox/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🏝奥特┃多线",
+      "api": "http://ztha.top/TVBox/csp_AueteGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🧲新6V┃磁力",
+      "api": "http://ztha.top/TVBox/csp_SixVGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🦉咕咕┃动漫",
+      "api": "http://ztha.top/TVBox/csp_AppSxGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🚌巴士┃动漫",
+      "api": "http://ztha.top/TVBox/csp_Dm84Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🐾日本┃动漫",
+      "api": "http://ztha.top/TVBox/csp_Anime1Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "⚽八八┃看球",
+      "api": "http://ztha.top/TVBox/csp_KanqiuGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🏀多多┃看球",
+      "api": "http://ztha.top/TVBox/csp_DoubaoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🏐吃瓜┃看球",
+      "api": "http://ztha.top/TVBox/csp_LiveGzGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🎮一直播┃直播",
+      "api": "http://ztha.top/TVBox/csp_AllliveGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🎶明星┃MV",
+      "api": "http://ztha.top/TVBox/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🎧有声┃小说",
+      "api": "http://ztha.top/TVBox/csp_Tingshu275Guard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🚑急救┃教学",
+      "api": "http://ztha.top/TVBox/csp_FirstAidGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🐯虎牙┃直播",
+      "api": "http://ztha.top/TVBox/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🐟斗鱼┃直播",
+      "api": "http://ztha.top/TVBox/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🍄抠抠┃搜搜",
+      "api": "http://ztha.top/TVBox/csp_KkSsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🌈优汐┃搜搜",
+      "api": "http://ztha.top/TVBox/csp_UuSsGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🐟盘她┃夸父",
+      "api": "http://ztha.top/TVBox/csp_YpanSoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🐞盘他┃嘟嘟",
+      "api": "http://ztha.top/TVBox/csp_BpanSoGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🛴手机┃推送",
+      "api": "http://ztha.top/TVBox/csp_PushGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🅱哔哔合集┃弹幕",
+      "api": "http://ztha.top/TVBox/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "🅱哔哔演唱会┃弹幕",
+      "api": "http://ztha.top/TVBox/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "📚儿童┃启蒙",
+      "api": "http://ztha.top/TVBox/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "📚少儿┃教育",
+      "api": "http://ztha.top/TVBox/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "📚小学┃课堂",
+      "api": "http://ztha.top/TVBox/csp_BiliGuard",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://ztha.top/TVBox/thdjk.json",
+      "name": "📚初中┃课堂",
+      "api": "http://ztha.top/TVBox/csp_BiliGuard",
       "reason": "not a direct CMS/VOD API"
     },
     {
