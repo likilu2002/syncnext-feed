@@ -250,6 +250,12 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "😒果果┃[短剧]",
+      "api": "http://rihou.cc:88/csp_DuanJuCen",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "🎰聚合┃[短剧]",
       "api": "http://rihou.cc:88/csp_Jhdj",
       "reason": "not a direct CMS/VOD API"
@@ -5500,7 +5506,7 @@
     },
     {
       "url": "http://www.饭太硬.net/tv",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 520: <none>"
     },
     {
       "url": "http://ok213.top/tv",
@@ -5612,7 +5618,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 17 (char 16)"
+      "error": "Extra data: line 1 column 19 (char 18)"
     },
     {
       "url": "https://fmbox.cc",
