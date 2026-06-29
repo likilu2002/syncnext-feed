@@ -5488,7 +5488,7 @@
     },
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
@@ -5624,7 +5624,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 15 (char 14)"
+      "error": "Extra data: line 1 column 18 (char 17)"
     },
     {
       "url": "https://fmbox.cc",
