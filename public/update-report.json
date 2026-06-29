@@ -5668,7 +5668,7 @@
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
-      "error": "HTTP Error 404: NOT FOUND"
+      "error": "HTTP Error 400: BAD REQUEST"
     },
     {
       "url": "https://weixine.net/ysc.json",
