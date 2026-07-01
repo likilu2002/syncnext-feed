@@ -5628,7 +5628,7 @@
     },
     {
       "url": "https://fmbox.cc",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fmbox.cc'. (_ssl.c:1082)>"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "http://tvbox.稳定接口.com",
@@ -5672,7 +5672,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
