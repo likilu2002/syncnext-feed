@@ -8,6 +8,7 @@
     "https://乐哥.xyz/dj.json",
     "http://mzrjk.top/戏曲",
     "http://mzrjk.top/音乐",
+    "https://7337.kstore.space/TGMTV/TGyinyue.txt",
     "http://box.nihaohezi.com/app/hzjy.json",
     "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
@@ -28,7 +29,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 11,
-      "configs": 10
+      "configs": 11
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -953,6 +954,108 @@
       "source": "http://mzrjk.top/音乐",
       "name": "公众号宝盒APP发送【听歌】获取最新版",
       "api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "公众号《科技天微》：仅自用测试 禁传播贩卖！",
+      "api": "https://7337.kstore.space/TGMTV/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-酷狗音乐",
+      "api": "https://7337.kstore.space/TGMTV/csp_Kugou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-车载音乐",
+      "api": "https://7337.kstore.space/TGMTV/java/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-榜单音乐",
+      "api": "https://7337.kstore.space/TGMTV/csp_Kugou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-分类音乐",
+      "api": "https://7337.kstore.space/TGMTV/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-明星歌厅",
+      "api": "https://7337.kstore.space/TGMTV/java/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-明星备用",
+      "api": "https://7337.kstore.space/TGMTV/csp_WexIktv",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-舞蹈音乐",
+      "api": "https://7337.kstore.space/TGMTV/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-动感哟哟",
+      "api": "https://7337.kstore.space/TGMTV/csp_XYQHiker",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-酷奇MV",
+      "api": "https://7337.kstore.space/TGMTV/java/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-哔哩演唱",
+      "api": "https://7337.kstore.space/TGMTV/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-音乐点播",
+      "api": "https://7337.kstore.space/TGMTV/java/lib/zbzdb.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-蜻蜓FM",
+      "api": "https://7337.kstore.space/TGMTV/java/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-种子音乐",
+      "api": "https://7337.kstore.space/TGMTV/java/lib/drpy3.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-贝乐儿歌",
+      "api": "https://7337.kstore.space/TGMTV/java/lib/drpy3.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG-健身瑜伽",
+      "api": "https://7337.kstore.space/TGMTV/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
+      "name": "TG音乐：请定期清缓存",
+      "api": "",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5406,10 +5509,6 @@
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
-      "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
-      "error": "HTTP Error 401: "
-    },
-    {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
@@ -5435,7 +5534,7 @@
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
@@ -5447,7 +5546,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -5471,7 +5570,7 @@
     },
     {
       "url": "http://www.饭太硬.com/tv",
-      "error": "Remote end closed connection without response"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
@@ -5507,7 +5606,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
@@ -5563,7 +5662,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "Remote end closed connection without response"
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
