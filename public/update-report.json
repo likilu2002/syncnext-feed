@@ -328,12 +328,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "📚100┃[听看]",
-      "api": "http://rihou.cc:88/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "📚随身┃[听看]",
       "api": "http://rihou.cc:88/js/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
@@ -5624,7 +5618,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 16 (char 15)"
+      "error": "Extra data: line 1 column 17 (char 16)"
     },
     {
       "url": "https://fmbox.cc",
