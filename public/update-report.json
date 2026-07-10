@@ -1,9 +1,10 @@
 {
-  "total": 46,
+  "total": 50,
   "fetched": [
     "https://gist.githubusercontent.com/kenchar/b645b12150ccfa98a438824787c875e4/raw/sourcesv3.json",
     "https://raw.githubusercontent.com/2124662895/2026cbdva/main/xfnn.json",
     "http://rihou.cc:88/demo.php",
+    "https://11405.kstore.space/xiaye/qk4k.json",
     "https://乐哥.xyz/dj.json",
     "http://mzrjk.top/戏曲",
     "http://mzrjk.top/音乐",
@@ -26,8 +27,8 @@
     },
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
-      "count": 7,
-      "configs": 9
+      "count": 11,
+      "configs": 10
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -292,12 +293,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🙆王子┃[APP]",
       "api": "http://rihou.cc:88/csp_AppGet",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🤯臻享┃[APP]",
-      "api": "http://rihou.cc:88/csp_AppYsV2",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -592,6 +587,240 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "😋链接┃推送",
       "api": "http://rihou.cc:88/csp_Push",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "Q群1016555099",
+      "api": "https://11405.kstore.space/xiaye/csp_Douban",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "配置｜中心",
+      "api": "https://11405.kstore.space/xiaye/csp_Config",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "瓜子｜影视",
+      "api": "https://11405.kstore.space/xiaye/csp_Gz360",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "讯讯｜星源",
+      "api": "https://gitee.com/xiayede/drpy/raw/master/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "果果｜星源",
+      "api": "https://gitee.com/xiayede/drpy/raw/master/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "小哩｜星源",
+      "api": "https://gitee.com/xiayede/drpy/raw/master/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "B站｜星源",
+      "api": "https://11405.kstore.space/xiaye/js/哔哩合集.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "小咕｜星源",
+      "api": "https://xy.183933.xyz/php/咪咕.php",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "小乐｜星源",
+      "api": "https://xy.183933.xyz/php/ls.php/vod",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "星华｜星源",
+      "api": "https://11405.kstore.space/xiaye/js/华数TV.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "小艺｜星源",
+      "api": "https://gitee.com/xiayede/drpy/raw/master/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "小酷｜星源",
+      "api": "https://gitee.com/xiayede/drpy/raw/master/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "哔哩｜视频",
+      "api": "https://11405.kstore.space/xiaye/csp_BiliYS",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "哔哩｜合集",
+      "api": "https://11405.kstore.space/xiaye/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "玩偶｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_Wogg",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "快映｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "木偶｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "蜡笔｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "至臻｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "多多｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "欧哥｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "二小｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "虎斑｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "夸父｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShareKF",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "123｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebShare123",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "指南｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_4KZhinan",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "人人｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_RenRen",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "即刻｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_Jike",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "双星｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_ShuangXing",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "趣盘｜4K",
+      "api": "https://11405.kstore.space/xiaye/csp_PanWebQu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "盘他｜4k",
+      "api": "https://11405.kstore.space/xiaye/csp_YD",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "人人｜4K",
+      "api": "https://gitee.com/xiayede/drpy/raw/master/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "我的｜UC",
+      "api": "https://11405.kstore.space/xiaye/csp_PanUc",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "我的｜夸克",
+      "api": "https://11405.kstore.space/xiaye/csp_PanQuark",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "我的｜百度",
+      "api": "https://11405.kstore.space/xiaye/csp_PanBaiDu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "我的｜阿里",
+      "api": "https://11405.kstore.space/xiaye/csp_PanAli",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "盘搜｜搜索",
+      "api": "https://11405.kstore.space/xiaye/csp_PanSou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "百酷｜搜索",
+      "api": "https://11405.kstore.space/xiaye/csp_Baiku",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://11405.kstore.space/xiaye/qk4k.json",
+      "name": "手机｜推送",
+      "api": "https://11405.kstore.space/xiaye/csp_Push",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5088,15 +5317,11 @@
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 404: "
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
       "error": "HTTP Error 404: Not Found"
-    },
-    {
-      "url": "https://11405.kstore.space/xiaye/qk4k.json",
-      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg",
@@ -5108,7 +5333,7 @@
     },
     {
       "url": "https://10352.kstore.vip/ok",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 404: "
     },
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -5124,11 +5349,11 @@
     },
     {
       "url": "https://盒子迷.top/短剧",
-      "error": "<urlopen error timed out>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 401: "
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
@@ -5172,7 +5397,7 @@
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
-      "error": "HTTP Error 522: <none>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
@@ -5180,7 +5405,7 @@
     },
     {
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
     },
     {
       "url": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
@@ -5236,7 +5461,7 @@
     },
     {
       "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 401: "
     },
     {
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
