@@ -381,12 +381,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "💡灯泡｜[网盘]",
-      "api": "http://rihou.cc:88/js/灯泡网盘.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "👰人人┃[网盘]",
       "api": "http://rihou.cc:88/js/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
@@ -5405,7 +5399,7 @@
     },
     {
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "url": "https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
@@ -5477,7 +5471,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 15 (char 14)"
+      "error": "Extra data: line 1 column 22 (char 21)"
     },
     {
       "url": "https://fmbox.cc",
