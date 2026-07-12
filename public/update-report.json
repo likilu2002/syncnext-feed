@@ -243,6 +243,24 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🙄短木┃[网盘]",
+      "api": "http://rihou.cc:88/csp_Wobg",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "🤔虎斑┃[网盘]",
+      "api": "http://rihou.cc:88/csp_Wobg",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "😳快映┃[网盘]",
+      "api": "http://rihou.cc:88/csp_Wobg",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "🥺荐片┃[秒播]",
       "api": "http://rihou.cc:88/csp_Jianpian",
       "reason": "not a direct CMS/VOD API"
