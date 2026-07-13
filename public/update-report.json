@@ -5409,7 +5409,7 @@
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
