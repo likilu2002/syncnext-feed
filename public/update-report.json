@@ -5409,7 +5409,7 @@
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
-      "error": "HTTP Error 522: <none>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
@@ -5553,7 +5553,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "output": "/home/runner/work/syncnext-feed/syncnext-feed/public/sourcesv3.json"
