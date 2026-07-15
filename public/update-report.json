@@ -616,7 +616,7 @@
     {
       "source": "https://11405.kstore.space/xiaye/qk4k.json",
       "name": "瓜子｜影视",
-      "api": "https://11405.kstore.space/xiaye/csp_Gz360",
+      "api": "https://11405.kstore.space/xiaye/js/瓜子.py",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5537,7 +5537,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
