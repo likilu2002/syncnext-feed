@@ -5553,7 +5553,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "HTTP Error 404: Not Found"
     }
   ],
   "output": "/home/runner/work/syncnext-feed/syncnext-feed/public/sourcesv3.json"
