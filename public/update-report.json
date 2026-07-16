@@ -5367,7 +5367,7 @@
     },
     {
       "url": "http://jiduo.3116598.xyz",
-      "error": "HTTP Error 522: <none>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://www.饭太硬.net/tv",
@@ -5379,11 +5379,11 @@
     },
     {
       "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://hello.肥猫.com/",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
@@ -5431,7 +5431,7 @@
     },
     {
       "url": "http://肥猫.com",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
@@ -5515,7 +5515,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
@@ -5531,7 +5531,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
