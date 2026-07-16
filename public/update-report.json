@@ -387,12 +387,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🚘爱看┃[网盘]",
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "👶夸克┃[网盘]",
       "api": "http://rihou.cc:88/js/夸克影院.js",
       "reason": "not a direct CMS/VOD API"
@@ -5373,7 +5367,7 @@
     },
     {
       "url": "http://jiduo.3116598.xyz",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "http://www.饭太硬.net/tv",
@@ -5489,7 +5483,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 20 (char 19)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
@@ -5537,7 +5531,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
