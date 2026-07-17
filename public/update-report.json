@@ -5341,7 +5341,7 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 401: Authorization Required"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
@@ -5381,7 +5381,7 @@
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "error": "<urlopen error timed out>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
@@ -5397,7 +5397,7 @@
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
@@ -5449,7 +5449,7 @@
     },
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
