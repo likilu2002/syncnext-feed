@@ -141,12 +141,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🐹盘Ta┃[网盘]",
-      "api": "http://rihou.cc:88/csp_Panta91",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "😂观影┃[网盘]",
       "api": "http://rihou.cc:88/csp_GuanYing",
       "reason": "not a direct CMS/VOD API"
@@ -5347,7 +5341,7 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "HTTP Error 401: Authorization Required"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
@@ -5379,15 +5373,15 @@
     },
     {
       "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "error": "<urlopen error timed out>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://hello.肥猫.com/",
-      "error": "<urlopen error timed out>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
@@ -5431,11 +5425,11 @@
     },
     {
       "url": "http://肥猫.com",
-      "error": "<urlopen error timed out>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
@@ -5455,7 +5449,7 @@
     },
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
@@ -5515,7 +5509,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
@@ -5531,7 +5525,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
