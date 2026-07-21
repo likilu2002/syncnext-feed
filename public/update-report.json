@@ -13,6 +13,7 @@
     "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
     "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
+    "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
     "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
     "http://ztha.top/TVBox/thdjk.json",
     "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
@@ -33,7 +34,7 @@
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
       "count": 12,
-      "configs": 6
+      "configs": 7
     }
   ],
   "tvbox_skipped": [
@@ -1913,6 +1914,78 @@
       "source": "https://www.252035.xyz/p/jsm.json",
       "name": "🐼️┃电视┃直播",
       "api": "https://www.252035.xyz/p/lib/live2vod.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "📢公告停更",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Notice",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "🐲歌配置｜中心",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Config",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "❤配置｜中心",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Config",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "🐲接口失效",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Duopan",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "🐲关注公众号",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Duopan",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "❤装歌APP",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "❤重新领取",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "📢手机｜推送",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Push",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "🛒本地包更新",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Market",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "📢接口软件永远免费",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "📢长期维护切勿贩卖",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5315,7 +5388,7 @@
   "failed": [
     {
       "url": "https://xn--sees-wn6lw489o.v.nxog.top/apia?id=1",
-      "error": "Remote end closed connection without response"
+      "error": "HTTP Error 444: "
     },
     {
       "url": "http://154.36.173.40/tgyg/bbm.json",
@@ -5391,7 +5464,7 @@
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
-      "error": "Remote end closed connection without response"
+      "error": "HTTP Error 444: "
     },
     {
       "url": "http://我不是.摸鱼儿.top",
@@ -5424,10 +5497,6 @@
     {
       "url": "http://www.饭太硬.com/tv",
       "error": "Expecting value: line 1 column 1 (char 0)"
-    },
-    {
-      "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "error": "Remote end closed connection without response"
     },
     {
       "url": "http://肥猫.com",
@@ -5483,7 +5552,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 15 (char 14)"
+      "error": "Extra data: line 1 column 17 (char 16)"
     },
     {
       "url": "https://fmbox.cc",
