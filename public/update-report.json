@@ -1918,7 +1918,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！",
+      "name": "📢马到成功、一马当先、马跃千山、马踏祥云！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -5456,7 +5456,7 @@
     },
     {
       "url": "http://hello.肥猫.com/",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
@@ -5500,7 +5500,7 @@
     },
     {
       "url": "http://肥猫.com",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error [Errno -2] Name or service not known>"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
