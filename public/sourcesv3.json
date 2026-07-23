@@ -351,6 +351,15 @@
     "note": "TVBox import: feisu"
   },
   {
+    "id": "26a2bd20-bcd1-5c18-8b8a-e4eeb257b006",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🤣魔都┃动漫",
+    "api": "https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
+    "note": "TVBox import: 魔都资源"
+  },
+  {
     "id": "9ae67a2c-aae4-5626-add5-1cfd741bddcc",
     "Top": false,
     "Priority": 520000,
