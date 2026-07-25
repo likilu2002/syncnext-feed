@@ -1918,7 +1918,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢龙马精神、金戈铁马、骏马迎春、马行千里！",
+      "name": "📢万事顺意、喜气洋洋、阖家幸福、岁岁平安！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -6126,7 +6126,7 @@
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 444: "
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
@@ -6218,7 +6218,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 17 (char 16)"
+      "error": "Extra data: line 1 column 22 (char 21)"
     },
     {
       "url": "https://fmbox.cc",
