@@ -8,6 +8,7 @@
     "https://乐哥.xyz/dj.json",
     "http://mzrjk.top/戏曲",
     "http://mzrjk.top/音乐",
+    "http://box.nihaohezi.com/app/hzjy.json",
     "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
@@ -28,7 +29,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 11,
-      "configs": 9
+      "configs": 10
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -905,6 +906,36 @@
       "source": "http://mzrjk.top/音乐",
       "name": "公众号宝盒APP发送【听歌】获取最新版",
       "api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://box.nihaohezi.com/app/hzjy.json",
+      "name": "📚学前教育📚",
+      "api": "http://box.nihaohezi.com/app/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://box.nihaohezi.com/app/hzjy.json",
+      "name": "📚小学课堂📚",
+      "api": "http://box.nihaohezi.com/app/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://box.nihaohezi.com/app/hzjy.json",
+      "name": "初中｜课堂",
+      "api": "http://box.nihaohezi.com/app/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://box.nihaohezi.com/app/hzjy.json",
+      "name": "高中｜课堂",
+      "api": "http://box.nihaohezi.com/app/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://box.nihaohezi.com/app/hzjy.json",
+      "name": "📂本地视频",
+      "api": "http://box.nihaohezi.com/app/csp_LocalFile",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -6047,7 +6078,7 @@
     },
     {
       "url": "https://10352.kstore.vip/ok",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 401: "
     },
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -6068,10 +6099,6 @@
     {
       "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
       "error": "HTTP Error 401: "
-    },
-    {
-      "url": "http://box.nihaohezi.com/app/hzjy.json",
-      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
