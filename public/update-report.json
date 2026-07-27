@@ -1918,13 +1918,13 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢免费仅限测试用，如有收费,直接找退款！",
+      "name": "📢龙马精神、金戈铁马、骏马迎春、马行千里！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢公告❤更新0725❤",
+      "name": "📢公告❤更新0727❤",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Notice",
       "reason": "not a direct CMS/VOD API"
     },
@@ -6218,7 +6218,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 21 (char 20)"
+      "error": "Extra data: line 1 column 16 (char 15)"
     },
     {
       "url": "https://fmbox.cc",
@@ -6230,7 +6230,7 @@
     },
     {
       "url": "http://meowtv.cn/tv",
-      "error": "<urlopen error [Errno -5] No address associated with hostname>"
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
     },
     {
       "url": "http://itvbox.cc/云星日记",
