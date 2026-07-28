@@ -1924,7 +1924,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢公告❤更新0727❤",
+      "name": "📢公告❤更新0728❤",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Notice",
       "reason": "not a direct CMS/VOD API"
     },
@@ -2009,7 +2009,7 @@
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
       "name": "💡移动｜影视",
-      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_YDjisu",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Yidong4K",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -6126,7 +6126,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -6182,7 +6182,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
