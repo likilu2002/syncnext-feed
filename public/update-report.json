@@ -1918,7 +1918,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢龙马精神、金戈铁马、骏马迎春、马行千里！",
+      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -2038,12 +2038,6 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "👑橙子丨APP",
-      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_App99",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
       "name": "👑王子丨APP",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
@@ -2064,12 +2058,6 @@
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
       "name": "👑蓝鹰｜APP",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_AppQi",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "👑魔方｜APP",
-      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -6230,7 +6218,7 @@
     },
     {
       "url": "http://meowtv.cn/tv",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "error": "<urlopen error [Errno -5] No address associated with hostname>"
     },
     {
       "url": "http://itvbox.cc/云星日记",
