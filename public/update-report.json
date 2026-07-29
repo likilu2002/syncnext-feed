@@ -1918,7 +1918,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢马到成功、一马当先、马跃千山、马踏祥云！",
+      "name": "📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -6206,7 +6206,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 17 (char 16)"
+      "error": "Extra data: line 1 column 16 (char 15)"
     },
     {
       "url": "https://fmbox.cc",
