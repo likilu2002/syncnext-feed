@@ -5,6 +5,7 @@
     "https://raw.githubusercontent.com/2124662895/2026cbdva/main/xfnn.json",
     "http://rihou.cc:88/demo.php",
     "https://11405.kstore.space/xiaye/qk4k.json",
+    "https://8815.kstore.vip/tvbox/Ace",
     "https://乐哥.xyz/dj.json",
     "http://mzrjk.top/戏曲",
     "http://mzrjk.top/音乐",
@@ -29,7 +30,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 11,
-      "configs": 10
+      "configs": 11
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -828,6 +829,552 @@
       "source": "https://11405.kstore.space/xiaye/qk4k.json",
       "name": "手机｜推送",
       "api": "https://11405.kstore.space/xiaye/csp_Push",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🧊公众号: 九月小小屋",
+      "api": "https://8815.kstore.vip/tvbox/csp_Douban",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "📥网盘丨配置中心",
+      "api": "https://8815.kstore.vip/tvbox/csp_Config",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "📝小白丨弹幕搜索",
+      "api": "https://8815.kstore.vip/tvbox/csp_SecureDanmu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎬本机｜文件播放",
+      "api": "https://8815.kstore.vip/tvbox/csp_LocalFile",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🗂️我的丨夸克网盘",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanQuark",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🗂️我的丨UC网盘",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanUC",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🗂️我的丨百度网盘",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanBaidu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🗂️我的丨阿里网盘",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanAli",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍盘搜｜网盘搜索",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanSou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯玩耦｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_Wogg",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯木偶｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯快映｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯蜡笔｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯至臻｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯多多｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯欧哥｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯二小｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯虎斑｜4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💯短木丨4K臻享",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌐移动丨4K免扫",
+      "api": "https://8815.kstore.vip/tvbox/csp_Yidong4K",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌐指南｜4K原盘",
+      "api": "https://8815.kstore.vip/tvbox/csp_4KZhinan",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌐人人｜4K网盘",
+      "api": "https://8815.kstore.vip/tvbox/csp_RenRen",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌐双星｜4K网盘",
+      "api": "https://8815.kstore.vip/tvbox/csp_ShuangXing",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍米搜｜网盘搜索",
+      "api": "https://8815.kstore.vip/tvbox/csp_MiSou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍鬼鬼｜网盘搜索",
+      "api": "https://8815.kstore.vip/tvbox/csp_GuiGui",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍SeedHub丨网盘搜索",
+      "api": "https://8815.kstore.vip/tvbox/csp_SeedHub",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍音海丨网盘搜索",
+      "api": "https://8815.kstore.vip/tvbox/csp_Yinhai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍天翼｜网盘搜索",
+      "api": "https://8815.kstore.vip/tvbox/csp_TianYiSo",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍趣盘｜网盘搜索",
+      "api": "https://8815.kstore.vip/tvbox/csp_QuPanSo",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌐123丨4K社区",
+      "api": "https://8815.kstore.vip/tvbox/csp_PanWebShare123",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍夸克┃网盘搜索",
+      "api": "https://so.yinpai.xyz/api.php?type=quark",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍百度┃网盘搜索",
+      "api": "https://so.yinpai.xyz/api.php?type=baidu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍UC┃网盘搜索",
+      "api": "https://so.yinpai.xyz/api.php?type=uc",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍天翼┃网盘推送",
+      "api": "https://so.yinpai.xyz/api.php?type=tianyi",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍阿里┃网盘搜索",
+      "api": "https://so.yinpai.xyz/api.php?type=aliyun",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍123┃网盘搜索",
+      "api": "https://so.yinpai.xyz/api.php?type=123",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍移动┃网盘搜索",
+      "api": "https://so.yinpai.xyz/api.php?type=mobile",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔍迅雷┃网盘搜索",
+      "api": "https://so.yinpai.xyz/api.php?type=xunlei",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌼韩圈｜蓝光韩剧",
+      "api": "https://8815.kstore.vip/tvbox/csp_Hxq",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌾农民｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_Wwys",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌞热播｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppRJ",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🍉瓜子丨蓝光影视",
+      "api": "https://8815.kstore.vip/tvbox/csp_Gz360",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🏪厂长｜蓝光影视",
+      "api": "https://8815.kstore.vip/tvbox/csp_Czsapp",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🧿三秋｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_App3Q",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "☁️云朵丨蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_App3Q",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🐵大马猴丨蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppMH",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌌华谊｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppDrama",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🏵️天堂｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppDrama",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🍊橘汁｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppDrama",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌌华谊｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppDrama",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🧿薯条｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppDrama",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🧿蓝鹰｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppQi",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🧿独播｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_Duboku",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🧿金牌｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_Jpys",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "💠魔方丨蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppGet",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🧿爱看｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_Ikanbot",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌲山楂丨4K影视",
+      "api": "https://8815.kstore.vip/tvbox/csp_PianKu8",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🐟飞鱼丨蓝光影视",
+      "api": "https://8815.kstore.vip/tvbox/csp_Feiyu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🍁枫叶丨4K影视",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/枫叶.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌓王林丨蓝光影视",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔥火云丨4K影视",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/火云.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎬电影天堂丨蓝光",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppYsV2",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎡永乐｜蓝光影视",
+      "api": "https://8815.kstore.vip/tvbox/csp_XBPQ",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎥1905｜蓝光秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_Web1905",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🅱️哔哩｜影视资源",
+      "api": "https://8815.kstore.vip/tvbox/csp_BiliYS",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "⚗️漫国丨动漫资源",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppSy",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎀次元丨动漫追番",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppGet",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "✨双子星丨动漫秒播",
+      "api": "https://8815.kstore.vip/tvbox/csp_App99",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎀omofun｜动漫追番",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppGet",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🦛河马｜短剧合集",
+      "api": "https://8815.kstore.vip/tvbox/csp_HemaDJ",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🌈好看｜短剧合集",
+      "api": "https://8815.kstore.vip/tvbox/csp_HKDJ",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔮围观｜短剧合集",
+      "api": "https://8815.kstore.vip/tvbox/csp_WeiguanDJ",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🔮星芽｜短剧合集",
+      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/星芽短剧.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🍑短剧丨聚合短剧",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/py/短剧聚合2.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🧲荐片｜磁力资源",
+      "api": "https://8815.kstore.vip/tvbox/csp_JianPian",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "⚽88｜看球体育",
+      "api": "https://8815.kstore.vip/tvbox/csp_Kanqiu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "⚽咖啡丨体育直播",
+      "api": "https://8815.kstore.vip/tvbox/csp_KafeiTY",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "⚽球通｜体育直播",
+      "api": "https://8815.kstore.vip/tvbox/csp_QiutongTY",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "⚽瓜子｜体育直播",
+      "api": "https://8815.kstore.vip/tvbox/csp_GuaziTY",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎶爱听｜音乐歌曲",
+      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/aiting.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🍁枫叶丨音乐合集",
+      "api": "https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎶裤硪丨音乐合集",
+      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/kuwo.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎶听海丨音乐合集",
+      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/JS/tinghai.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎶呦呦｜DJ音乐",
+      "api": "https://8815.kstore.vip/tvbox/csp_Djuu",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎶轮回｜DJ音乐",
+      "api": "https://8815.kstore.vip/tvbox/csp_Djlh",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "📻蜻蜓｜FM频道",
+      "api": "https://8815.kstore.vip/tvbox/csp_QingtingFM",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "📢世界｜听书资源",
+      "api": "https://8815.kstore.vip/tvbox/csp_TingShijie",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "📖275听书｜小说听书",
+      "api": "https://g.blfrp.cn/https://raw.githubusercontent.com/tushen6/Tomorrow/master/py/275听书.py",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🎭梨园戏曲｜听戏",
+      "api": "https://8815.kstore.vip/tvbox/csp_AppLY",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "🅱️哔哩｜资源合集",
+      "api": "https://8815.kstore.vip/tvbox/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://8815.kstore.vip/tvbox/Ace",
+      "name": "⚓手机｜推送视频",
+      "api": "https://8815.kstore.vip/tvbox/csp_Push",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -1918,13 +2465,13 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢万事顺意、喜气洋洋、阖家幸福、岁岁平安！",
+      "name": "📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢公告❤更新0728❤",
+      "name": "📢公告❤更新0731❤",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Notice",
       "reason": "not a direct CMS/VOD API"
     },
@@ -2044,12 +2591,6 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "👑听心丨APP",
-      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_App99",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
       "name": "👑剧圈丨APP",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_App99",
       "reason": "not a direct CMS/VOD API"
@@ -2058,6 +2599,12 @@
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
       "name": "👑蓝鹰｜APP",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_AppQi",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "👑不戳｜APP",
+      "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_AppGet",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -6054,7 +6601,7 @@
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "The read operation timed out"
     },
     {
       "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg",
@@ -6071,10 +6618,6 @@
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
       "error": "<urlopen error [Errno -2] Name or service not known>"
-    },
-    {
-      "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "HTTP Error 401: "
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
@@ -6206,7 +6749,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 18 (char 17)"
+      "error": "Extra data: line 1 column 20 (char 19)"
     },
     {
       "url": "https://fmbox.cc",
