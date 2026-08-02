@@ -6639,7 +6639,7 @@
     },
     {
       "url": "http://14.103.129.80:999/奇迹云2kmax/qjy4k0125.jpg",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "https://10352.kstore.vip/ok",
@@ -6779,7 +6779,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 20 (char 19)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
