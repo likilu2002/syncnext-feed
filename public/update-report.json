@@ -239,12 +239,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🙄短木┃[网盘]",
-      "api": "http://rihou.cc:88/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🤔虎斑┃[网盘]",
       "api": "http://rihou.cc:88/csp_Wobg",
       "reason": "not a direct CMS/VOD API"
@@ -6121,7 +6115,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
