@@ -191,6 +191,12 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🐌蜗牛┃[网盘]",
+      "api": "http://rihou.cc:88/csp_Zmi",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "😁玩偶┃[网盘]",
       "api": "http://rihou.cc:88/csp_Wogg",
       "reason": "not a direct CMS/VOD API"
@@ -6007,7 +6013,7 @@
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
-      "error": "timed out"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
@@ -6083,7 +6089,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 15 (char 14)"
+      "error": "Extra data: line 1 column 16 (char 15)"
     },
     {
       "url": "https://fmbox.cc",
