@@ -1906,7 +1906,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢龙马精神、金戈铁马、骏马迎春、马行千里！",
+      "name": "📢万事顺意、喜气洋洋、阖家幸福、岁岁平安！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -5544,7 +5544,7 @@
     },
     {
       "url": "https://fmbox.cc",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 520: <none>"
     },
     {
       "url": "http://tvbox.稳定接口.com",
