@@ -1906,7 +1906,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢万事顺意、喜气洋洋、阖家幸福、岁岁平安！",
+      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -5540,11 +5540,11 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 16 (char 15)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
-      "error": "HTTP Error 520: <none>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://tvbox.稳定接口.com",
