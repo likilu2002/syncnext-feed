@@ -1359,7 +1359,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！",
+      "name": "📢万事顺意、喜气洋洋、阖家幸福、岁岁平安！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -4841,7 +4841,7 @@
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
@@ -4865,11 +4865,11 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "HTTP Error 404: "
+      "error": "The read operation timed out"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
-      "error": "HTTP Error 404: "
+      "error": "The read operation timed out"
     },
     {
       "url": "https://盒子迷.top/短剧",
