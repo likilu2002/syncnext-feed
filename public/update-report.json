@@ -1,5 +1,5 @@
 {
-  "total": 44,
+  "total": 48,
   "fetched": [
     "https://gist.githubusercontent.com/kenchar/b645b12150ccfa98a438824787c875e4/raw/sourcesv3.json",
     "https://raw.githubusercontent.com/2124662895/2026cbdva/main/xfnn.json",
@@ -9,6 +9,7 @@
     "http://mzrjk.top/音乐",
     "http://box.nihaohezi.com/app/hzjy.json",
     "http://cnmb.cc.cd/jk/xnf.json",
+    "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
     "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
     "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
@@ -26,8 +27,8 @@
     },
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
-      "count": 5,
-      "configs": 8
+      "count": 9,
+      "configs": 9
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -685,6 +686,240 @@
       "reason": "not a direct CMS/VOD API"
     },
     {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "Nostr推荐",
+      "api": "https://www.252035.xyz/z/csp_Nostr",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "Tg | 豆瓣",
+      "api": "https://www.252035.xyz/z/csp_TgYunDouBanPan",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "配置中心",
+      "api": "https://www.252035.xyz/z/csp_ConfigCenter",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "金牌影视",
+      "api": "https://www.252035.xyz/z/csp_Jpys",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "瓜子影视",
+      "api": "https://www.252035.xyz/z/csp_GuaZi",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "聚合短剧",
+      "api": "https://www.252035.xyz/z/csp_JuheShortDrama",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "爱看机器人",
+      "api": "https://www.252035.xyz/z/csp_Ikanbot",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 4k指南",
+      "api": "https://www.252035.xyz/z/csp_FourKZN",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 观影",
+      "api": "https://www.252035.xyz/z/csp_GuanYing",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘集合 | 4K",
+      "api": "https://www.252035.xyz/z/csp_网盘集合",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 片库",
+      "api": "https://www.252035.xyz/z/csp_Qiwei",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "pansou | fish",
+      "api": "https://www.252035.xyz/z/csp_PanSouFish",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "Emby",
+      "api": "https://www.252035.xyz/z/csp_Emby",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "Emby肥牛",
+      "api": "https://www.252035.xyz/z/csp_Emby",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "游戏 | 直播",
+      "api": "https://www.252035.xyz/z/csp_Living",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 木偶",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 闪电uc",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 二小",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 小米",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 多多",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 蜡笔",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 讴歌",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 饭",
+      "api": "https://www.252035.xyz/z/csp_Wogg",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 虎斑",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "玩偶 | 虎斑2",
+      "api": "https://www.252035.xyz/z/csp_kongbai",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 星剧社",
+      "api": "https://www.252035.xyz/z/csp_Star2",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "Youtube",
+      "api": "https://www.252035.xyz/z/csp_Youtube",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 盤搜天意",
+      "api": "https://www.252035.xyz/z/csp_PanSou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "賤賤",
+      "api": "https://www.252035.xyz/z/csp_Jianpian",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "路飞丨Live",
+      "api": "https://www.252035.xyz/z/lib/lf_live10_min-output.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "哔哩",
+      "api": "https://www.252035.xyz/z/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "TgYunPan | 本地",
+      "api": "https://www.252035.xyz/z/csp_TgYunPanLocal",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 盘Ta",
+      "api": "https://www.252035.xyz/z/csp_PanTa",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 小雷",
+      "api": "https://www.252035.xyz/z/csp_PanTa",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "易搜 | 4K",
+      "api": "https://www.252035.xyz/z/csp_YiSo",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 盤搜索",
+      "api": "https://www.252035.xyz/z/csp_PanSearch",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "网盘 | 紙條搜",
+      "api": "https://www.252035.xyz/z/csp_XiaoZhiTiao",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "AList",
+      "api": "https://www.252035.xyz/z/csp_AList",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "https://www.252035.xyz/z/FongMi.json",
+      "name": "推送",
+      "api": "https://www.252035.xyz/z/csp_Push",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
       "source": "https://www.252035.xyz/p/jsm.json",
       "name": "Nostr推荐",
       "api": "https://www.252035.xyz/p/csp_Nostr",
@@ -1124,7 +1359,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
+      "name": "📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -4655,10 +4890,6 @@
     {
       "url": "http://www.饭太硬.net/tv",
       "error": "Expecting value: line 1 column 1 (char 0)"
-    },
-    {
-      "url": "https://www.252035.xyz/z/FongMi.json",
-      "error": "The read operation timed out"
     },
     {
       "url": "http://ok213.top/tv",
