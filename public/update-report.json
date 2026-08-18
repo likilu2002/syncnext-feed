@@ -1359,7 +1359,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！",
+      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -4997,7 +4997,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 16 (char 15)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
@@ -5041,7 +5041,7 @@
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
-      "error": "HTTP Error 404: NOT FOUND"
+      "error": "HTTP Error 429: TOO MANY REQUESTS"
     },
     {
       "url": "https://weixine.net/ysc.json",
