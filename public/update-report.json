@@ -1359,7 +1359,7 @@
     },
     {
       "source": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "name": "📢网络收集勿演示贩卖！严谨用于任何商业用途！",
+      "name": "📢免费仅限测试用，如有收费,直接找退款！",
       "api": "https://xn--tkh-mf3g9f.v.nxog.top/m/csp_Douban",
       "reason": "not a direct CMS/VOD API"
     },
@@ -5041,7 +5041,7 @@
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
-      "error": "HTTP Error 429: TOO MANY REQUESTS"
+      "error": "HTTP Error 404: NOT FOUND"
     },
     {
       "url": "https://weixine.net/ysc.json",
