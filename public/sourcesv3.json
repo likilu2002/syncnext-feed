@@ -234,15 +234,6 @@
     "note": "TVBox import: pt"
   },
   {
-    "id": "660f3a54-7b6c-5bfd-88fb-99400df26c05",
-    "Top": false,
-    "Priority": 520000,
-    "Search": true,
-    "name": "索尼┃资源",
-    "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-    "note": "TVBox import: 索尼资源"
-  },
-  {
     "id": "482d6c0d-55f2-5f79-a976-c48e2644e9f2",
     "Top": false,
     "Priority": 520000,
