@@ -5317,7 +5317,7 @@
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 404: "
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
@@ -5381,7 +5381,7 @@
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
-      "error": "HTTP Error 444: "
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
@@ -5477,7 +5477,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 16 (char 15)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
