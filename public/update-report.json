@@ -5317,7 +5317,7 @@
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
