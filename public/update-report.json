@@ -5377,7 +5377,7 @@
     },
     {
       "url": "http://hello.肥猫.com/",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
@@ -5425,7 +5425,7 @@
     },
     {
       "url": "http://肥猫.com",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
@@ -5481,7 +5481,7 @@
     },
     {
       "url": "https://fmbox.cc",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "http://tvbox.稳定接口.com",
