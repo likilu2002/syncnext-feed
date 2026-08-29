@@ -273,20 +273,14 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "😒果果┃[短剧]",
-      "api": "http://rihou.cc:88/csp_DuanJuCen",
+      "name": "🍎果子┃[短剧]",
+      "api": "http://rihou.cc:88/csp_HongGuo",
       "reason": "not a direct CMS/VOD API"
     },
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🎰聚合┃[短剧]",
       "api": "http://rihou.cc:88/csp_Jhdj",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🍇双星｜[APP]",
-      "api": "http://rihou.cc:88/csp_App99",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5493,7 +5487,7 @@
     },
     {
       "url": "http://itvbox.cc/云星日记",
-      "error": "timed out"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
@@ -5509,7 +5503,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
