@@ -5481,7 +5481,7 @@
     },
     {
       "url": "https://fmbox.cc",
-      "error": "HTTP Error 522: <none>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://tvbox.稳定接口.com",
@@ -5493,7 +5493,7 @@
     },
     {
       "url": "http://itvbox.cc/云星日记",
-      "error": "Remote end closed connection without response"
+      "error": "timed out"
     },
     {
       "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
@@ -5509,7 +5509,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
