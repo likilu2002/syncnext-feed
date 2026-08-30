@@ -153,12 +153,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🦆鸭社┃[网盘]",
-      "api": "http://rihou.cc:88/csp_Qsxy",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🥉社区┃[网盘]",
       "api": "http://rihou.cc:88/csp_Pan123Fx",
       "reason": "not a direct CMS/VOD API"
@@ -191,6 +185,12 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🐌蜗牛┃[网盘]",
       "api": "http://rihou.cc:88/csp_Zmi",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
+      "name": "😳剧透┃[网盘]",
+      "api": "http://rihou.cc:88/csp_JuTouShe",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -303,18 +303,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🌽夸克┃[短剧]",
-      "api": "http://rihou.cc:88/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🍆夸短┃[短剧]",
-      "api": "http://rihou.cc:88/csp_XBPQ",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🐶旺旺┃[XBPQ]",
       "api": "http://rihou.cc:88/csp_XBPQ",
       "reason": "not a direct CMS/VOD API"
@@ -371,12 +359,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "📻蜻蜓┃[听看]",
       "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "👶夸克┃[网盘]",
-      "api": "http://rihou.cc:88/js/夸克影院.js",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -563,12 +545,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🤝迅雷┃搜索",
       "api": "https://so.yinpai.xyz/api.php?type=xunlei",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🤒盘友┃搜索",
-      "api": "http://rihou.cc:88/py/盘友圈.py",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5503,7 +5479,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 500: Internal Server Error"
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
