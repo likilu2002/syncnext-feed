@@ -507,6 +507,12 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🔍米搜┃搜索",
+      "api": "http://rihou.cc:88/csp_MiSou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "👊夸克┃搜索",
       "api": "https://so.yinpai.xyz/api.php?type=quark",
       "reason": "not a direct CMS/VOD API"
@@ -5395,7 +5401,7 @@
     },
     {
       "url": "http://肥猫.com",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
@@ -5419,7 +5425,7 @@
     },
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
