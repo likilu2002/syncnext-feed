@@ -267,6 +267,12 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
+      "name": "🇰🇷韩剧┃[秒播]",
+      "api": "http://rihou.cc:88/csp_Hanxiaoquan",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://rihou.cc:88/demo.php",
       "name": "😇最全┃[短剧]",
       "api": "http://rihou.cc:88/csp_Kan90",
       "reason": "not a direct CMS/VOD API"
