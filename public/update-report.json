@@ -5401,7 +5401,7 @@
     },
     {
       "url": "http://肥猫.com",
-      "error": "<urlopen error timed out>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
@@ -5425,7 +5425,7 @@
     },
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
-      "error": "<urlopen error timed out>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
@@ -5501,7 +5501,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
