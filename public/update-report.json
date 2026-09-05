@@ -5303,7 +5303,7 @@
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg",
