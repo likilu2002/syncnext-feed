@@ -5387,7 +5387,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "timed out"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -5487,7 +5487,7 @@
     },
     {
       "url": "http://itvbox.cc/云星日记",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
