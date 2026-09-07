@@ -5387,7 +5387,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -5447,7 +5447,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "<urlopen error [Errno 101] Network is unreachable>"
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
@@ -5471,7 +5471,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 26 (char 25)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
@@ -5487,7 +5487,7 @@
     },
     {
       "url": "http://itvbox.cc/云星日记",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
