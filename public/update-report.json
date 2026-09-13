@@ -219,12 +219,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "🤩蜡笔┃[网盘]",
-      "api": "http://rihou.cc:88/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🤑闪电┃[网盘]",
       "api": "http://rihou.cc:88/csp_Wobg",
       "reason": "not a direct CMS/VOD API"
@@ -238,12 +232,6 @@
     {
       "source": "http://rihou.cc:88/demo.php",
       "name": "🙄木偶┃[网盘]",
-      "api": "http://rihou.cc:88/csp_Wobg",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🤫至臻┃[网盘]",
       "api": "http://rihou.cc:88/csp_Wobg",
       "reason": "not a direct CMS/VOD API"
     },
@@ -5519,7 +5507,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
