@@ -7,6 +7,7 @@
     "https://11405.kstore.space/xiaye/qk4k.json",
     "https://乐哥.xyz/dj.json",
     "http://mzrjk.top/戏曲",
+    "http://mzrjk.top/音乐",
     "http://box.nihaohezi.com/app/hzjy.json",
     "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
@@ -27,7 +28,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 11,
-      "configs": 9
+      "configs": 10
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -856,6 +857,42 @@
       "source": "http://mzrjk.top/戏曲",
       "name": "公众号宝盒APP发送【戏曲】获取最新版",
       "api": "http://mzrjk.top/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://mzrjk.top/音乐",
+      "name": "公众号宝盒APP发送【听歌】获取最新版",
+      "api": "http://mzrjk.top/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://mzrjk.top/音乐",
+      "name": "公众号宝盒APP发送【听歌】获取最新版",
+      "api": "http://mzrjk.top/csp_Kugou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://mzrjk.top/音乐",
+      "name": "公众号宝盒APP发送【听歌】获取最新版",
+      "api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://mzrjk.top/音乐",
+      "name": "公众号宝盒APP发送【听歌】获取最新版",
+      "api": "http://mzrjk.top/csp_Kugou",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://mzrjk.top/音乐",
+      "name": "公众号宝盒APP发送【听歌】获取最新版",
+      "api": "http://mzrjk.top/csp_Bili",
+      "reason": "not a direct CMS/VOD API"
+    },
+    {
+      "source": "http://mzrjk.top/音乐",
+      "name": "公众号宝盒APP发送【听歌】获取最新版",
+      "api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5266,7 +5303,7 @@
   "failed": [
     {
       "url": "https://xn--sees-wn6lw489o.v.nxog.top/apia?id=1",
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "error": "Remote end closed connection without response"
     },
     {
       "url": "http://154.36.173.40/tgyg/bbm.json",
@@ -5307,10 +5344,6 @@
     {
       "url": "https://盒子迷.top/短剧",
       "error": "Expecting value: line 1 column 1 (char 0)"
-    },
-    {
-      "url": "http://mzrjk.top/音乐",
-      "error": "The read operation timed out"
     },
     {
       "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
@@ -5486,7 +5519,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
