@@ -147,12 +147,6 @@
     },
     {
       "source": "http://rihou.cc:88/demo.php",
-      "name": "😃盘链┃[网盘]",
-      "api": "http://rihou.cc:88/csp_PingLian",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
       "name": "🥉社区┃[网盘]",
       "api": "http://rihou.cc:88/csp_Pan123Fx",
       "reason": "not a direct CMS/VOD API"
@@ -377,12 +371,6 @@
       "source": "http://rihou.cc:88/demo.php",
       "name": "🍋泥泥┃[秒播]",
       "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://rihou.cc:88/demo.php",
-      "name": "🪐星辰┃[秒播]",
-      "api": "http://rihou.cc:88/js/星辰影院.js",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -5459,7 +5447,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 15 (char 14)"
+      "error": "Extra data: line 1 column 16 (char 15)"
     },
     {
       "url": "https://fmbox.cc",
