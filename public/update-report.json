@@ -5,8 +5,6 @@
     "https://raw.githubusercontent.com/2124662895/2026cbdva/main/xfnn.json",
     "https://11405.kstore.space/xiaye/qk4k.json",
     "https://乐哥.xyz/dj.json",
-    "http://mzrjk.top/戏曲",
-    "http://mzrjk.top/音乐",
     "http://box.nihaohezi.com/app/hzjy.json",
     "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
@@ -27,7 +25,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 9,
-      "configs": 9
+      "configs": 7
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -280,72 +278,6 @@
       "source": "https://乐哥.xyz/dj.json",
       "name": "😋链接┃推送",
       "api": "https://乐哥.xyz/csp_Push",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/戏曲",
-      "name": "公众号宝盒APP发送【戏曲】获取最新版",
-      "api": "http://mzrjk.top/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/戏曲",
-      "name": "公众号宝盒APP发送【戏曲】获取最新版",
-      "api": "http://mzrjk.top/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/戏曲",
-      "name": "公众号宝盒APP发送【戏曲】获取最新版",
-      "api": "http://mzrjk.top/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/戏曲",
-      "name": "公众号宝盒APP发送【戏曲】获取最新版",
-      "api": "http://mzrjk.top/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/戏曲",
-      "name": "公众号宝盒APP发送【戏曲】获取最新版",
-      "api": "http://mzrjk.top/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/音乐",
-      "name": "公众号宝盒APP发送【听歌】获取最新版",
-      "api": "http://mzrjk.top/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/音乐",
-      "name": "公众号宝盒APP发送【听歌】获取最新版",
-      "api": "http://mzrjk.top/csp_Kugou",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/音乐",
-      "name": "公众号宝盒APP发送【听歌】获取最新版",
-      "api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/音乐",
-      "name": "公众号宝盒APP发送【听歌】获取最新版",
-      "api": "http://mzrjk.top/csp_Kugou",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/音乐",
-      "name": "公众号宝盒APP发送【听歌】获取最新版",
-      "api": "http://mzrjk.top/csp_Bili",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "http://mzrjk.top/音乐",
-      "name": "公众号宝盒APP发送【听歌】获取最新版",
-      "api": "http://mzrjk.top/音乐/java/lib/drpy2.min.js",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -4756,7 +4688,7 @@
   "failed": [
     {
       "url": "https://xn--sees-wn6lw489o.v.nxog.top/apia?id=1",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
     },
     {
       "url": "http://154.36.173.40/tgyg/bbm.json",
@@ -4803,6 +4735,14 @@
       "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
+      "url": "http://mzrjk.top/戏曲",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "http://mzrjk.top/音乐",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
       "url": "https://7337.kstore.space/TGMTV/TGyinyue.txt",
       "error": "HTTP Error 401: "
     },
@@ -4836,7 +4776,7 @@
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
     },
     {
       "url": "http://我不是.摸鱼儿.top",
@@ -4872,7 +4812,7 @@
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
     },
     {
       "url": "http://肥猫.com",
