@@ -4,7 +4,6 @@
     "https://gist.githubusercontent.com/kenchar/b645b12150ccfa98a438824787c875e4/raw/sourcesv3.json",
     "https://raw.githubusercontent.com/2124662895/2026cbdva/main/xfnn.json",
     "https://11405.kstore.space/xiaye/qk4k.json",
-    "https://乐哥.xyz/dj.json",
     "http://box.nihaohezi.com/app/hzjy.json",
     "http://cnmb.cc.cd/jk/xnf.json",
     "https://www.252035.xyz/z/FongMi.json",
@@ -25,7 +24,7 @@
     {
       "url": "https://wget.la/https://github.com/2124662895/2026cbdva/blob/main/xfnn.json",
       "count": 9,
-      "configs": 7
+      "configs": 6
     },
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
@@ -266,18 +265,6 @@
       "source": "https://11405.kstore.space/xiaye/qk4k.json",
       "name": "手机｜推送",
       "api": "https://11405.kstore.space/xiaye/csp_Push",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://乐哥.xyz/dj.json",
-      "name": "🔥下载更新",
-      "api": "https://乐哥.xyz/csp_Market",
-      "reason": "not a direct CMS/VOD API"
-    },
-    {
-      "source": "https://乐哥.xyz/dj.json",
-      "name": "😋链接┃推送",
-      "api": "https://乐哥.xyz/csp_Push",
       "reason": "not a direct CMS/VOD API"
     },
     {
@@ -4729,6 +4716,10 @@
     {
       "url": "https://7337.kstore.vip/tw.json",
       "error": "HTTP Error 404: "
+    },
+    {
+      "url": "https://乐哥.xyz/dj.json",
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://盒子迷.top/短剧",
