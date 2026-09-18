@@ -4771,7 +4771,7 @@
     },
     {
       "url": "http://我不是.摸鱼儿.top",
-      "error": "<urlopen error [Errno -2] Name or service not known>"
+      "error": "timed out"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
@@ -4859,7 +4859,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 17 (char 16)"
+      "error": "Extra data: line 1 column 19 (char 18)"
     },
     {
       "url": "https://fmbox.cc",
