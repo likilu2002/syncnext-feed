@@ -4755,7 +4755,7 @@
     },
     {
       "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://hello.肥猫.com/",
@@ -4775,7 +4775,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "[Errno 104] Connection reset by peer"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -4835,7 +4835,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "timed out"
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
@@ -4859,7 +4859,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 18 (char 17)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
