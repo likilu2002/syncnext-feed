@@ -4783,7 +4783,7 @@
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "error": "Extra data: line 1 column 19 (char 18)"
     },
     {
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
