@@ -9,10 +9,8 @@
     "https://www.252035.xyz/z/FongMi.json",
     "https://www.252035.xyz/p/jsm.json",
     "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
-    "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
     "http://ztha.top/TVBox/thdjk.json",
     "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-    "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
     "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
   ],
   "tvbox_imported": [
@@ -29,7 +27,7 @@
     {
       "url": "https://gitlab.com/dokiss/tvbox/-/raw/main/%E5%9C%A5%E5%BF%88.json",
       "count": 12,
-      "configs": 6
+      "configs": 4
     }
   ],
   "tvbox_skipped": [
@@ -4695,7 +4693,7 @@
     },
     {
       "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg",
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "error": "HTTP Error 423: Locked"
     },
     {
       "url": "http://14.103.129.80:999/奇迹云2kmax/qjy4k0125.jpg",
@@ -4783,7 +4781,7 @@
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
-      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
+      "error": "Extra data: line 1 column 19 (char 18)"
     },
     {
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
@@ -4839,7 +4837,7 @@
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "The read operation timed out"
     },
     {
       "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
@@ -4856,6 +4854,10 @@
     {
       "url": "http://ttkx.live:55/天天开心",
       "error": "<urlopen error [Errno -2] Name or service not known>"
+    },
+    {
+      "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
+      "error": "The read operation timed out"
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -4907,11 +4909,15 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
       "error": "HTTP Error 423: Locked"
+    },
+    {
+      "url": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/config.json?ref=master",
+      "error": "The read operation timed out"
     },
     {
       "url": "https://龙伊.top",
