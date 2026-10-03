@@ -4683,7 +4683,7 @@
     },
     {
       "url": "http://rihou.cc:88/demo.php",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
@@ -4835,7 +4835,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "<urlopen error [Errno 101] Network is unreachable>"
+      "error": "timed out"
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
@@ -4851,7 +4851,7 @@
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "http://ttkx.live:55/天天开心",
