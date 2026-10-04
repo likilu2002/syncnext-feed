@@ -297,6 +297,15 @@
     "note": "TVBox import: 百度"
   },
   {
+    "id": "4059cfbc-9780-522d-a956-9171bfad0221",
+    "Top": false,
+    "Priority": 520000,
+    "Search": true,
+    "name": "🎫官采┃[采集]",
+    "api": "https://cj.jusj.top/api.php/provide/vod/?ac=list",
+    "note": "TVBox import: 官采"
+  },
+  {
     "id": "63a05823-4476-576c-ab98-e57cbeb35c31",
     "Top": false,
     "Priority": 520000,
@@ -376,6 +385,15 @@
     "name": "🦊火狐采集",
     "api": "https://hhzyapi.com/api.php/provide/vod/",
     "note": "TVBox import: 火狐"
+  },
+  {
+    "id": "267ac859-4ad0-5319-8c64-d0d49053ac3c",
+    "Top": false,
+    "Priority": 520000,
+    "Search": false,
+    "name": "🧞无广┃[采集]",
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+    "note": "TVBox import: 电影天堂"
   },
   {
     "id": "7e3cb2a3-8a84-4dc9-8ba7-8d9a0071aee1",
