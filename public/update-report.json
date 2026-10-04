@@ -4695,7 +4695,7 @@
     },
     {
       "url": "https://gitee.com/yimi321/ymys/raw/master/yimi.jpg",
-      "error": "HTTP Error 423: Locked"
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
     },
     {
       "url": "http://14.103.129.80:999/奇迹云2kmax/qjy4k0125.jpg",
@@ -4875,7 +4875,7 @@
     },
     {
       "url": "http://itvbox.cc/云星日记",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "https://gitee.com/xmbjmjk/omg/raw/master/omg.json",
@@ -4883,7 +4883,7 @@
     },
     {
       "url": "https://gitee.com/tv888/tv/raw/master/svip.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
     },
     {
       "url": "http://ygbh.live/box.php",
@@ -4891,7 +4891,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
@@ -4911,7 +4911,7 @@
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
-      "error": "HTTP Error 423: Locked"
+      "error": "<urlopen error _ssl.c:1064: The handshake operation timed out>"
     },
     {
       "url": "https://龙伊.top",
