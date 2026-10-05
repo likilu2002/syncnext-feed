@@ -5216,7 +5216,7 @@
     },
     {
       "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://jiduo.3116598.xyz",
@@ -5336,7 +5336,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 15 (char 14)"
+      "error": "Extra data: line 1 column 16 (char 15)"
     },
     {
       "url": "https://fmbox.cc",
@@ -5384,7 +5384,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
