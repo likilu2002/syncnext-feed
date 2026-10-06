@@ -5336,7 +5336,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 16 (char 15)"
+      "error": "Extra data: line 1 column 21 (char 20)"
     },
     {
       "url": "https://fmbox.cc",
@@ -5384,7 +5384,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
