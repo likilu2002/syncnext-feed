@@ -4683,7 +4683,7 @@
     },
     {
       "url": "http://rihou.cc:88/demo.php",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
@@ -4851,7 +4851,7 @@
     },
     {
       "url": "http://rihou.cc:88/荷城茶秀",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [Errno 111] Connection refused>"
     },
     {
       "url": "http://ttkx.live:55/天天开心",
@@ -4907,7 +4907,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
