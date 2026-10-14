@@ -4779,7 +4779,7 @@
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
-      "error": "HTTP Error 521: <none>"
+      "error": "HTTP Error 404: Not Found"
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
@@ -4859,7 +4859,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 16 (char 15)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
