@@ -4859,7 +4859,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 15 (char 14)"
+      "error": "Extra data: line 1 column 25 (char 24)"
     },
     {
       "url": "https://fmbox.cc",
@@ -4907,7 +4907,7 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error timed out>"
+      "error": "<urlopen error [Errno -5] No address associated with hostname>"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
