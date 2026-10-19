@@ -4675,7 +4675,7 @@
   "failed": [
     {
       "url": "https://xn--sees-wn6lw489o.v.nxog.top/apia?id=1",
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--sees-wn6lw489o.v.nxog.top'. (_ssl.c:1082)>"
     },
     {
       "url": "http://154.36.173.40/tgyg/bbm.json",
@@ -4767,7 +4767,7 @@
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--jggj-wn6lw489o.v.nxog.top'. (_ssl.c:1082)>"
     },
     {
       "url": "http://我不是.摸鱼儿.top",
@@ -4775,7 +4775,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "timed out"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -4803,7 +4803,7 @@
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--tkh-mf3g9f.v.nxog.top'. (_ssl.c:1082)>"
     },
     {
       "url": "http://肥猫.com",
@@ -4859,7 +4859,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 25 (char 24)"
+      "error": "Extra data: line 1 column 16 (char 15)"
     },
     {
       "url": "https://fmbox.cc",
@@ -4903,11 +4903,11 @@
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
-      "error": "HTTP Error 404: NOT FOUND"
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "error": "<urlopen error [Errno 111] Connection refused>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
