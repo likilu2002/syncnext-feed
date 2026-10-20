@@ -4675,7 +4675,7 @@
   "failed": [
     {
       "url": "https://xn--sees-wn6lw489o.v.nxog.top/apia?id=1",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--sees-wn6lw489o.v.nxog.top'. (_ssl.c:1082)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--sees-wn6lw489o.v.nxog.top'. (_ssl.c:1144)>"
     },
     {
       "url": "http://154.36.173.40/tgyg/bbm.json",
@@ -4711,11 +4711,11 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://乐哥.xyz/dj.json",
@@ -4767,7 +4767,7 @@
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--jggj-wn6lw489o.v.nxog.top'. (_ssl.c:1082)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--jggj-wn6lw489o.v.nxog.top'. (_ssl.c:1144)>"
     },
     {
       "url": "http://我不是.摸鱼儿.top",
@@ -4803,7 +4803,7 @@
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--tkh-mf3g9f.v.nxog.top'. (_ssl.c:1082)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--tkh-mf3g9f.v.nxog.top'. (_ssl.c:1144)>"
     },
     {
       "url": "http://肥猫.com",
@@ -4919,7 +4919,7 @@
     },
     {
       "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1144)>"
     },
     {
       "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
