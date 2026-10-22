@@ -4675,7 +4675,7 @@
   "failed": [
     {
       "url": "https://xn--sees-wn6lw489o.v.nxog.top/apia?id=1",
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1144)>"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
     },
     {
       "url": "http://154.36.173.40/tgyg/bbm.json",
@@ -4767,7 +4767,7 @@
     },
     {
       "url": "https://xn--jggj-wn6lw489o.v.nxog.top/apia?id=3",
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1144)>"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
     },
     {
       "url": "http://我不是.摸鱼儿.top",
@@ -4803,7 +4803,7 @@
     },
     {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1144)>"
+      "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1082)>"
     },
     {
       "url": "http://肥猫.com",
@@ -4835,7 +4835,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "timed out"
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
@@ -4919,7 +4919,7 @@
     },
     {
       "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1144)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)>"
     },
     {
       "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
