@@ -4687,7 +4687,7 @@
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
@@ -4711,11 +4711,11 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://乐哥.xyz/dj.json",
@@ -4743,7 +4743,7 @@
     },
     {
       "url": "http://jiduo.3116598.xyz",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "timed out"
     },
     {
       "url": "http://www.饭太硬.net/tv",
@@ -4775,7 +4775,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "timed out"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
