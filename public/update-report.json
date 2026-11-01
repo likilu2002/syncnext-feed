@@ -4687,7 +4687,7 @@
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
@@ -4711,11 +4711,11 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://乐哥.xyz/dj.json",
@@ -4783,7 +4783,7 @@
     },
     {
       "url": "https://gitee.com/wynp/ys/raw/master/yc.json",
-      "error": "<urlopen error _ssl.c:1126: The handshake operation timed out>"
+      "error": "HTTP Error 423: Locked"
     },
     {
       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
@@ -4911,7 +4911,7 @@
     },
     {
       "url": "https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json",
-      "error": "<urlopen error _ssl.c:1126: The handshake operation timed out>"
+      "error": "HTTP Error 423: Locked"
     },
     {
       "url": "https://龙伊.top",
