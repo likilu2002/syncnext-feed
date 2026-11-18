@@ -4687,7 +4687,7 @@
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
-      "error": "HTTP Error 404: "
+      "error": "The read operation timed out"
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
@@ -4711,11 +4711,11 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "HTTP Error 404: "
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
-      "error": "HTTP Error 404: "
+      "error": "The read operation timed out"
     },
     {
       "url": "https://乐哥.xyz/dj.json",
@@ -4775,7 +4775,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "HTTP Error 504: Gateway Time-out"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -4835,7 +4835,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "HTTP Error 504: Gateway Time-out"
+      "error": "HTTP Error 522: <none>"
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
@@ -4891,7 +4891,7 @@
     },
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
-      "error": "HTTP Error 403: Forbidden"
+      "error": "HTTP Error 500: Internal Server Error"
     },
     {
       "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
