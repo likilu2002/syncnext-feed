@@ -4771,11 +4771,11 @@
     },
     {
       "url": "http://我不是.摸鱼儿.top",
-      "error": "Expecting value: line 1 column 1 (char 0)"
+      "error": "timed out"
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "HTTP Error 522: <none>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "http://tv.4kbox.top/4k/index.php",
@@ -4835,7 +4835,7 @@
     },
     {
       "url": "http://tvbox.王二小放牛娃.top",
-      "error": "HTTP Error 522: <none>"
+      "error": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
