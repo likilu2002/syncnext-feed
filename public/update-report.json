@@ -4711,7 +4711,7 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
@@ -4859,7 +4859,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 27 (char 26)"
+      "error": "Extra data: line 1 column 15 (char 14)"
     },
     {
       "url": "https://fmbox.cc",
