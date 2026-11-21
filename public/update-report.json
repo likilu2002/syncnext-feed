@@ -4687,7 +4687,7 @@
     },
     {
       "url": "https://d.kstore.dev/download/17520/tvbox/2026310jm.json",
-      "error": "HTTP Error 502: Bad Gateway"
+      "error": "The read operation timed out"
     },
     {
       "url": "https://codeberg.org/pider/spider/raw/branch/main/%E9%99%86%E6%88%90.json",
@@ -4715,7 +4715,7 @@
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
-      "error": "The read operation timed out"
+      "error": "HTTP Error 502: Bad Gateway"
     },
     {
       "url": "https://乐哥.xyz/dj.json",
