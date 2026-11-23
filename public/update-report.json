@@ -4703,7 +4703,7 @@
     },
     {
       "url": "https://10352.kstore.vip/ok",
-      "error": "HTTP Error 502: Bad Gateway"
+      "error": "HTTP Error 401: "
     },
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -4711,7 +4711,7 @@
     },
     {
       "url": "https://8815.kstore.vip/tvbox/Ace",
-      "error": "HTTP Error 502: Bad Gateway"
+      "error": "The read operation timed out"
     },
     {
       "url": "https://7337.kstore.vip/tw.json",
