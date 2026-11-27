@@ -4679,7 +4679,7 @@
     },
     {
       "url": "http://154.36.173.40/tgyg/bbm.json",
-      "error": "HTTP Error 404: Not Found"
+      "error": "<urlopen error timed out>"
     },
     {
       "url": "http://rihou.cc:88/demo.php",
@@ -4859,7 +4859,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-      "error": "Extra data: line 1 column 17 (char 16)"
+      "error": "Extra data: line 1 column 21 (char 20)"
     },
     {
       "url": "https://fmbox.cc",
